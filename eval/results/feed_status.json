@@ -1,0 +1,58 @@
+{
+ "OpenAI": {
+  "ok": true,
+  "items": 1341
+ },
+ "Google Research": {
+  "ok": true,
+  "items": 100
+ },
+ "Google": {
+  "ok": true,
+  "items": 20
+ },
+ "AWS Machine Learning": {
+  "ok": true,
+  "items": 20
+ },
+ "Microsoft Research": {
+  "ok": true,
+  "items": 10
+ },
+ "LangChain": {
+  "ok": true,
+  "items": 99
+ },
+ "IBM Research": {
+  "ok": true,
+  "items": 20
+ },
+ "IEEE Spectrum": {
+  "ok": true,
+  "items": 30
+ },
+ "Hugging Face": {
+  "ok": true,
+  "items": 894
+ },
+ "Meta Engineering": {
+  "ok": true,
+  "items": 9
+ },
+ "Netflix Tech Blog": {
+  "ok": true,
+  "items": 10
+ },
+ "Anthropic": {
+  "ok": true,
+  "items": 127
+ },
+ "arXiv": {
+  "ok": true,
+  "items": 40
+ },
+ "ACM (Crossref metadata)": {
+  "ok": true,
+  "items": 18
+ }
+}

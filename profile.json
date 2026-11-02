@@ -1,0 +1,22 @@
+{
+  "name": "Oleg Mrynskyi",
+  "school": "San Jose State University",
+  "assumed": "Inferred from coursework folders (recommender systems, RAG, data mining, enterprise platforms). Edit freely; every agent reads this file.",
+  "target_roles": ["AI/ML engineering internship", "Applied AI software engineer (new grad)", "Agentic AI startup founder"],
+  "career_goal": "Land an applied AI engineering role building agents and recommender systems, and keep a path open to founding a startup.",
+  "interests": {
+    "AI agents and multi-agent orchestration": 3,
+    "LangGraph tool calling agent memory": 3,
+    "recommender systems ranking retrieval personalization": 3,
+    "RAG retrieval augmented generation embeddings vector search": 3,
+    "LLM evaluation benchmarks prompt engineering": 2,
+    "machine learning model training inference deployment": 2,
+    "data mining clustering AutoML": 1,
+    "MLOps cloud infrastructure APIs Docker": 1
+  },
+  "skills": {
+    "python": 0.6, "sql": 0.4, "fastapi": 0.5, "docker": 0.5, "rest apis": 0.5, "testing": 0.5,
+    "rag": 0.5, "embeddings": 0.4, "recommender systems": 0.5, "machine learning": 0.5, "llm": 0.4
+  },
+  "reading_minutes": {"min": 15, "max": 20}
+}

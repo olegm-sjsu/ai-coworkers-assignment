@@ -1,0 +1,7 @@
+data/cache/
+__pycache__/
+*.pyc
+.DS_Store
+data/candidates/
+data/feedback.json
+data/seen.json

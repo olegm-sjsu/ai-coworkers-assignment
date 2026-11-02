@@ -1,0 +1,64 @@
+{
+ "date": "2026-11-01",
+ "theme": "Getting agents the right context, then paying less for it",
+ "session_minutes": 18,
+ "articles": [
+  {
+   "title": "Context Engineering (Agent Memory) for AI Agents Starts with Retrieval",
+   "source": "LangChain",
+   "published": "2026-10-23",
+   "url": "https://www.langchain.com/blog/context-engineering-starts-with-retrieval",
+   "full_read_minutes": 10,
+   "session_minutes": 5,
+   "focus": "Read the Key Takeaways, then the sections on inefficient searching and too much context at once.",
+   "summary": "Agents have a limited context window, so retrieval can fail in three ways: inefficient searching, too much context at once, and irrelevant or stale context. The post works through a competitive analysis agent to show how the Deep Agents harness handles each failure.",
+   "insights": [
+    "Search before you read: glob matches file names, grep finds matching lines without loading files into context, and read_file reads a page at a time.",
+    "Grep only matches exact text, so a query for 'Company A funding' misses 'Company A closes $50M Series B'. A retrieval tool backed by a vector store adds search by meaning.",
+    "Agentic retrieval lets the agent decide when and what to search while it works. The post contrasts this with 2-step RAG, which searches once and then answers.",
+    "For custom search tools, the post recommends 'retrieve, offload, delegate': save results to files, return the paths, and let subagents read them."
+   ],
+   "career_fit": "This extends your RAG homework from one-shot retrieval to agentic retrieval. Early-career agent roles such as LangChain's Deployed Engineer posting ask for exactly this kind of practical agent design.",
+   "check_question": "Why does an agent's filesystem search use grep before read_file?",
+   "check_answer": "grep finds matching text without loading whole files into the context window, so the agent spends context only on the parts that matter."
+  },
+  {
+   "title": "From Intent to Improvement: Agentic Dataset Search for Better Model Training",
+   "source": "arXiv",
+   "published": "2026-10-29",
+   "url": "https://arxiv.org/abs/2610.39608v1",
+   "full_read_minutes": 48,
+   "session_minutes": 5,
+   "focus": "Read the abstract, the three challenges in the introduction, and the conclusion. Skip the experiment details for now.",
+   "summary": "AgenticDS is a framework for finding training data, where a query mixes a semantic goal with hard constraints such as task, license, and training stage. Each model decision fills in a typed object before deterministic code uses it, and evidence is verified before a ranking is accepted.",
+   "insights": [
+    "Text retrieval cannot enforce hard constraints. Free-form tool-calling agents add flexibility, but the same model that picks a dataset also declares it a match.",
+    "On the HuDS-Bench benchmark of 200 queries, AgenticDS improved NDCG@10 by 25.7% over the strongest dense-sparse hybrid and by 18.9% over a commercial LLM agent.",
+    "Relevance is not the same as training utility. A search-to-train study judged results by the accuracy of the model they trained, not by ranking scores alone.",
+    "The authors name two limits: the benchmark shares a graph with the retrieval engine, and the utility study is narrow in coverage."
+   ],
+   "career_fit": "NDCG is a core recommender metric from your course, so this connects ranking evaluation to agent design. The typed-contract pattern is also a concrete answer to interview questions about making agents reliable.",
+   "check_question": "What problem do typed contracts solve that a free-form tool-calling agent leaves open?",
+   "check_answer": "A free-form agent can select a dataset and declare it a match with nothing checking the constraints. Typed plans and deterministic operators with a verification step make that check explicit."
+  },
+  {
+   "title": "Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models on Amazon Bedrock",
+   "source": "AWS Machine Learning",
+   "published": "2026-10-26",
+   "url": "https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock/",
+   "full_read_minutes": 15,
+   "session_minutes": 5,
+   "focus": "Read up to 'Hello cached world', then jump to the summary list near the end. Skip the long code samples on a first pass.",
+   "summary": "Models have no memory between requests, so every agent turn resends the tools, instructions, and full history. Prompt caching reuses that processed prefix at a lower input price, and the post walks through implicit and explicit caching across an agent's life.",
+   "insights": [
+    "Caching works only on exactly the same text, so keep tools and instructions serialized the same way and put anything that varies, such as the date or a request ID, after the cached part.",
+    "Implicit mode suits a growing conversation, explicit breakpoints suit shared prefixes, and the two can be combined.",
+    "A cacheable prefix needs at least 1,024 tokens, and cache writes cost 1.25 times the normal input rate, so measure writes against read savings.",
+    "Warm the shared prefix and let that request finish before starting parallel helper agents."
+   ],
+   "career_fit": "Cost and latency are what separate a demo agent from a production one. Being able to explain why prefix order matters is a concrete way to show that in applied AI interviews.",
+   "check_question": "Why should a timestamp go after the cached instructions and not inside them?",
+   "check_answer": "Caching needs an identical prefix. A changing timestamp early in the prompt would change the text and stop later requests from reusing the cache."
+  }
+ ]
+}

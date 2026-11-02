@@ -1,0 +1,25 @@
+{
+ "pool": 280,
+ "likes recommenders, dislikes agents": {
+  "liked_topic_share_top20": [
+   0.2,
+   0.35
+  ],
+  "disliked_topic_share_top20": [
+   0.6,
+   0.35
+  ],
+  "top20_overlap": 14
+ },
+ "likes agents, dislikes recommenders": {
+  "liked_topic_share_top20": [
+   0.6,
+   0.65
+  ],
+  "disliked_topic_share_top20": [
+   0.2,
+   0.15
+  ],
+  "top20_overlap": 17
+ }
+}

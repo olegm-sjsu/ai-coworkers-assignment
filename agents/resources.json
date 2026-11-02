@@ -1,0 +1,23 @@
+{
+ "python": [["Python tutorial", "https://docs.python.org/3/tutorial/"]],
+ "machine learning": [["Google Machine Learning Crash Course", "https://developers.google.com/machine-learning/crash-course"]],
+ "deep learning": [["Dive into Deep Learning", "https://d2l.ai/"]],
+ "pytorch": [["PyTorch tutorials", "https://pytorch.org/tutorials/"]],
+ "llm": [["Hugging Face LLM course", "https://huggingface.co/learn/llm-course"]],
+ "rag": [["LangChain RAG tutorial", "https://docs.langchain.com/oss/python/langchain/rag"]],
+ "embeddings": [["Sentence Transformers documentation", "https://www.sbert.net/"]],
+ "agents": [["Anthropic: Building effective agents", "https://www.anthropic.com/research/building-effective-agents"], ["LangGraph overview", "https://docs.langchain.com/oss/python/langgraph/overview"]],
+ "evaluation": [["Anthropic: Demystifying evals for AI agents", "https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents"]],
+ "recommender systems": [["Google recommendation systems course", "https://developers.google.com/machine-learning/recommendation"]],
+ "distributed systems": [["MIT 6.5840 Distributed Systems", "https://pdos.csail.mit.edu/6.824/"]],
+ "system design": [["System Design Primer", "https://github.com/donnemartin/system-design-primer"]],
+ "kubernetes": [["Kubernetes basics", "https://kubernetes.io/docs/tutorials/kubernetes-basics/"]],
+ "docker": [["Docker getting started", "https://docs.docker.com/get-started/"]],
+ "aws": [["AWS Skill Builder", "https://skillbuilder.aws/"]],
+ "sql": [["PostgreSQL tutorial", "https://www.postgresql.org/docs/current/tutorial.html"]],
+ "data structures and algorithms": [["NeetCode roadmap", "https://neetcode.io/roadmap"]],
+ "testing": [["pytest documentation", "https://docs.pytest.org/"]],
+ "rest apis": [["FastAPI tutorial", "https://fastapi.tiangolo.com/tutorial/"]],
+ "typescript": [["TypeScript handbook", "https://www.typescriptlang.org/docs/handbook/intro.html"]],
+ "entrepreneurship": [["Y Combinator Startup School", "https://www.startupschool.org/"]]
+}

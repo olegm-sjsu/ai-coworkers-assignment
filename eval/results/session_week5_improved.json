@@ -1,0 +1,1148 @@
+{
+ "id": "week5_improved",
+ "startedAt": "2026-11-02T01:14:32.330Z",
+ "size": 4,
+ "opportunity": null,
+ "status": "finished",
+ "name": "the simulated learner",
+ "goal": "Land an applied AI engineering role building agents and recommender systems, and keep a path open to founding a startup.",
+ "demand": [
+  {
+   "skill": "python",
+   "demand": 0.84,
+   "postings": 21,
+   "prior_mastery": 0.6,
+   "evidence": [
+    {
+     "company": "LangChain",
+     "title": "Deployed Engineer (Early Career- SF)",
+     "url": "https://jobs.ashbyhq.com/langchain/0f35c8e1-9318-411d-929b-04c60e6d8522",
+     "excerpt": "ent What You’ll Bring 1-3 years of experience in software engineering, customer engineering, solutions engineering, founding engineering, or a similarly technical role, ideally at a startup or high-growth company Strong Python, JavaScript and systems fundamentals Hands-on experience building and deploying agent-based or LLM-powered applications beyond simple API calls, including multi-step workflows, orchestration, a"
+    },
+    {
+     "company": "Scale AI",
+     "title": "Machine Learning Research Intern (Summer 2027)",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735665005",
+     "excerpt": "perience or a track record of publications on LLMs, NLP, multimodal models, agents, safety, evaluation, alignment, or a related field</li> <li>Experience with one or more general purpose programming languages, including Python, Javascript, or similar</li> </ul> <h2><strong>Ideally You'd Have</strong></h2> <ul> <li>A previous internship in Machine Learning, Deep Learning, Natural Language Processing, Adversarial Robus"
+    }
+   ]
+  },
+  {
+   "skill": "aws",
+   "demand": 0.52,
+   "postings": 13,
+   "prior_mastery": 0.2,
+   "evidence": [
+    {
+     "company": "LangChain",
+     "title": "Deployed Engineer (Early Career- SF)",
+     "url": "https://jobs.ashbyhq.com/langchain/0f35c8e1-9318-411d-929b-04c60e6d8522",
+     "excerpt": "e 100M+ monthly open source downloads, 6,000+ active LangSmith customers, and 5 of the Fortune 10 use LangSmith in production (+ 35% of the Fortune 500 overall), including teams at Klarna, Clay, Coinbase, Workday, Lyft, Cloudflare, Harvey, Rippling, Vanta, LinkedIn, Monday.com, Nvidia, and Bridgewater. About the Team This team works directly with companies building and running AI agents in production, helping turn id"
+    },
+    {
+     "company": "Scale AI",
+     "title": "Software Engineer, Public Sector - New Grad",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005",
+     "excerpt": "measures model reliability against mission requirements</li> <li>Ship full-stack tooling that lets analysts query, visualize, and explore mission data</li> <li>Deploy and harden applications into secure, air-gapped, and cloud-native government environments</li> </ul> <h2>Requirements</h2> <ul> <li>A graduation date in Fall 2026 or Spring 2027 with a Bachelor's degree (or equivalent) in a relevant field (Computer Scie"
+    }
+   ]
+  },
+  {
+   "skill": "rest apis",
+   "demand": 0.52,
+   "postings": 13,
+   "prior_mastery": 0.5,
+   "evidence": [
+    {
+     "company": "LangChain",
+     "title": "Deployed Engineer (Early Career- SF)",
+     "url": "https://jobs.ashbyhq.com/langchain/0f35c8e1-9318-411d-929b-04c60e6d8522",
+     "excerpt": "a similarly technical role, ideally at a startup or high-growth company Strong Python, JavaScript and systems fundamentals Hands-on experience building and deploying agent-based or LLM-powered applications beyond simple API calls, including multi-step workflows, orchestration, and failure handling Strong technical communication skills and builder credibility; Can explain technical tradeoffs clearly, translate complex"
+    },
+    {
+     "company": "Scale AI",
+     "title": "Software Engineer, Public Sector - New Grad",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005",
+     "excerpt": "a Bachelor's degree (or equivalent) in a relevant field (Computer Science, EECS, Computer Engineering, Statistics)</li> <li>Product engineering experience such as building web apps full-stack, integrating with relevant APIs and services, talking to users, figuring out 'what' to build and then iterating</li> <li>Previous Product/Software Engineering internship experience</li> <li>Track record of shipping high-quality "
+    }
+   ]
+  },
+  {
+   "skill": "data structures and algorithms",
+   "demand": 0.52,
+   "postings": 13,
+   "prior_mastery": 0.2,
+   "evidence": [
+    {
+     "company": "Scale AI",
+     "title": "Software Engineer - New Grad",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
+     "excerpt": "ove bad actors and keep Scale's contributor base safe and trusted</li> <li>Use models to estimate the quality of tasks and contributors, and guarantee quality on requests at large scale</li> <li>Devise advanced matching algorithms that pair contributors to customers for optimal turnaround and accuracy</li> <li>Create optimized and efficient UI/UX tooling, in combination with ML algorithms, for 100k+ contributors comp"
+    },
+    {
+     "company": "Scale AI",
+     "title": "Software Engineering Intern (Summer 2027) ",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005",
+     "excerpt": "ove bad actors and keep Scale's contributor base safe and trusted</li> <li>Use models to estimate the quality of tasks and contributors, and guarantee quality on requests at large scale</li> <li>Devise advanced matching algorithms that pair contributors to customers for optimal turnaround and accuracy</li> <li>Create optimized and efficient UI/UX tooling, in combination with ML algorithms, for 100k+ contributors comp"
+    }
+   ]
+  },
+  {
+   "skill": "typescript",
+   "demand": 0.48,
+   "postings": 12,
+   "prior_mastery": 0.2,
+   "evidence": [
+    {
+     "company": "Scale AI",
+     "title": "Software Engineer, Public Sector - New Grad",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005",
+     "excerpt": "re Engineering internship experience</li> <li>Track record of shipping high-quality products and features at scale</li> <li>Experience building systems that process large volumes of data</li> <li>Experience with Python, Typescript, React, and/or MongoDB</li> <li>Strong written and verbal communication — you will work directly with government stakeholders and must be able to explain technical concepts to non-technical"
+    },
+    {
+     "company": "Scale AI",
+     "title": "Software Engineer - New Grad",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
+     "excerpt": "re Engineering internship experience</li> <li>Track record of shipping high-quality products and features at scale</li> <li>Experience building systems that process large volumes of data</li> <li>Experience with Python, Typescript, React, and/or MongoDB</li> </ul> <h2><strong>Nice to Have</strong></h2> <ul> <li>Hands-on experience with LLMs, evaluations, or agentic systems — whether from internships, research, or per"
+    }
+   ]
+  },
+  {
+   "skill": "distributed systems",
+   "demand": 0.4,
+   "postings": 10,
+   "prior_mastery": 0.2,
+   "evidence": [
+    {
+     "company": "Scale AI",
+     "title": "Machine Learning Research Intern (Summer 2027)",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735665005",
+     "excerpt": "Our work spans generative AI, reinforcement learning and advanced post-training methods, scalable oversight, synthetic data pipelines, red teaming, and evaluation science.</p> <p>We are developing a large-scale hybrid human-machine system to power machine learning pipelines for dozens of industry-leading customers"
+    },
+    {
+     "company": "Ramp",
+     "title": "Applied Scientist Intern",
+     "url": "https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956",
+     "excerpt": "Working with engineers, product managers, and business stakeholders, you’ll translate complex business needs into scalable machine-learning-driven solutions. This is a chance to apply ML concretely, ship code, and create genuine value for Ramp and our customers. You will focus on exciting problems in areas like: credit, fraud, growth, or"
+    }
+   ]
+  },
+  {
+   "skill": "llm",
+   "demand": 0.36,
+   "postings": 9,
+   "prior_mastery": 0.4,
+   "evidence": [
+    {
+     "company": "LangChain",
+     "title": "Deployed Engineer (Early Career- SF)",
+     "url": "https://jobs.ashbyhq.com/langchain/0f35c8e1-9318-411d-929b-04c60e6d8522",
+     "excerpt": "engineering, founding engineering, or a similarly technical role, ideally at a startup or high-growth company Strong Python, JavaScript and systems fundamentals Hands-on experience building and deploying agent-based or LLM-powered applications beyond simple API calls, including multi-step workflows, orchestration, and failure handling Strong technical communication skills and builder credibility; Can explain technica"
+    },
+    {
+     "company": "Scale AI",
+     "title": "Machine Learning Research Intern (Summer 2027)",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735665005",
+     "excerpt": "Our work spans generative AI, reinforcement learning and advanced post-training methods, scalable oversight, synthetic data pipelines, red teaming, and evaluation science.</p> <p>We are developing a large-scale hybrid human-machine system to power"
+    }
+   ]
+  },
+  {
+   "skill": "evaluation",
+   "demand": 0.32,
+   "postings": 8,
+   "prior_mastery": 0.2,
+   "evidence": [
+    {
+     "company": "LangChain",
+     "title": "Deployed Engineer (Early Career- SF)",
+     "url": "https://jobs.ashbyhq.com/langchain/0f35c8e1-9318-411d-929b-04c60e6d8522",
+     "excerpt": "With $125M raised at Series B from IVP, Sequoia, Benchmark, CapitalG, and Sapphire Ventures, we’re at a stage where we’re continuing to develop new products, growth is accelerating, and all team members have meaningful impact on what we build and how we work together. LangChain"
+    },
+    {
+     "company": "Scale AI",
+     "title": "Machine Learning Research Intern (Summer 2027)",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735665005",
+     "excerpt": "Our work spans generative AI, reinforcement learning and advanced post-training methods, scalable oversight, synthetic data pipelines, red teaming, and evaluation science.</p> <p>We are developing a large-scale hybrid human-machine system to power machine learning pipelines for dozens of industry-leading customers. These models and systems form the backbone of Scale's long-term s"
+    }
+   ]
+  },
+  {
+   "skill": "agents",
+   "demand": 0.28,
+   "postings": 7,
+   "prior_mastery": 0.2,
+   "evidence": [
+    {
+     "company": "LangChain",
+     "title": "Deployed Engineer (Early Career- SF)",
+     "url": "https://jobs.ashbyhq.com/langchain/0f35c8e1-9318-411d-929b-04c60e6d8522",
+     "excerpt": "About Us At LangChain, our mission is to make intelligent agents ubiquitous. We build the foundation for agent engineering in the real world, helping developers move from prototypes to production-ready AI agents that teams can rely on. We began as widely adopted open-source tools and"
+    },
+    {
+     "company": "Scale AI",
+     "title": "Machine Learning Research Intern (Summer 2027)",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735665005",
+     "excerpt": "ke models currently in production, identify areas for improvement, improve them using retraining and hyperparameter searches, then deploy without regressing on core model characteristics</li> <li>Create post-training or agentic solutions that integrate into our ability to deliver applications for enterprise and public sector clients</li> </ul> <h2><strong>Required to Have</strong></h2> <ul> <li>Currently enrolled in "
+    }
+   ]
+  },
+  {
+   "skill": "testing",
+   "demand": 0.28,
+   "postings": 7,
+   "prior_mastery": 0.5,
+   "evidence": [
+    {
+     "company": "Ramp",
+     "title": "Applied Scientist Intern",
+     "url": "https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956",
+     "excerpt": "revious Experience: relevant experience applying AI/ML and demonstrating your passion for the field Production ML Mindset : knowledge of software engineering best practices applied to ML including version control (Git), testing, and writing maintainable code Data Orchestration : experience with leveraging modern data orchestration platforms (Airflow, Dagster, Prefect, Metaflow) Compensation The monthly rate for this "
+    },
+    {
+     "company": "Figma",
+     "title": "Data Engineer Intern (2027)",
+     "url": "https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004",
+     "excerpt": "ons</li> <li>Contribute to the tools and practices that make working with data at Figma easier</li> <li>With support from a manager and mentor, you’ll own a scoped project from problem definition through implementation, testing, documentation, and sharing the results.</li> </ul> <p><strong>Some projects you could work on:</strong></p> <ul> <li>Develop new ETL jobs to integrate product or business data into our wareho"
+    }
+   ]
+  },
+  {
+   "skill": "machine learning",
+   "demand": 0.24,
+   "postings": 6,
+   "prior_mastery": 0.5,
+   "evidence": [
+    {
+     "company": "Scale AI",
+     "title": "Machine Learning Research Intern (Summer 2027)",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735665005",
+     "excerpt": "</p> <p>Scale's Machine Learning Research team builds the foundation for the next generation of AI systems — pushing the boundaries of what's possible with frontier models while ensuring safety, reliability, and alignment at every step. Our work spans"
+    },
+    {
+     "company": "Scale AI",
+     "title": "Software Engineer, Public Sector - New Grad",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005",
+     "excerpt": "ically alert users to deviations and anomalies in incoming data</li> <li>Create interfaces that illustrate how an agent reached a decision, so operators can audit and trust its output</li> <li>Develop data pipelines and ML infrastructure that make previously siloed government data sources accessible to agents</li> <li>Build evaluation infrastructure that measures model reliability against mission requirements</li> <l"
+    }
+   ]
+  },
+  {
+   "skill": "system design",
+   "demand": 0.16,
+   "postings": 4,
+   "prior_mastery": 0.2,
+   "evidence": [
+    {
+     "company": "LangChain",
+     "title": "Deployed Engineer (Early Career- SF)",
+     "url": "https://jobs.ashbyhq.com/langchain/0f35c8e1-9318-411d-929b-04c60e6d8522",
+     "excerpt": "The focus is on achieving the technical win, co-designing agent architectures, and helping customers operate agents reliably at scale using the LangChain suite. Deployed Engineers sit at the intersection of engineering, product, and go-to-market , shaping how LangChain is adopted in the field an"
+    },
+    {
+     "company": "Palantir",
+     "title": "Forward Deployed Software Engineer, Internship - Commercial",
+     "url": "https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6",
+     "excerpt": "You will embed with the customer, the chaos, and the consequences, and will be entrusted with real ownership to: \nCollaborate with engineers to make architecture and design decisions\nWrestle with data at a scale that breaks assumptions and demands invention\nBuild custom applications, LLM workflows, and production solutions engineered for a specific customer's reality\nOwn relatio"
+    }
+   ]
+  }
+ ],
+ "focus": [
+  {
+   "skill": "python",
+   "demand": 0.84,
+   "postings": 21,
+   "prior_mastery": 0.6,
+   "evidence": [
+    {
+     "company": "LangChain",
+     "title": "Deployed Engineer (Early Career- SF)",
+     "url": "https://jobs.ashbyhq.com/langchain/0f35c8e1-9318-411d-929b-04c60e6d8522",
+     "excerpt": "ent What You’ll Bring 1-3 years of experience in software engineering, customer engineering, solutions engineering, founding engineering, or a similarly technical role, ideally at a startup or high-growth company Strong Python, JavaScript and systems fundamentals Hands-on experience building and deploying agent-based or LLM-powered applications beyond simple API calls, including multi-step workflows, orchestration, a"
+    },
+    {
+     "company": "Scale AI",
+     "title": "Machine Learning Research Intern (Summer 2027)",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735665005",
+     "excerpt": "perience or a track record of publications on LLMs, NLP, multimodal models, agents, safety, evaluation, alignment, or a related field</li> <li>Experience with one or more general purpose programming languages, including Python, Javascript, or similar</li> </ul> <h2><strong>Ideally You'd Have</strong></h2> <ul> <li>A previous internship in Machine Learning, Deep Learning, Natural Language Processing, Adversarial Robus"
+    }
+   ]
+  },
+  {
+   "skill": "aws",
+   "demand": 0.52,
+   "postings": 13,
+   "prior_mastery": 0.2,
+   "evidence": [
+    {
+     "company": "LangChain",
+     "title": "Deployed Engineer (Early Career- SF)",
+     "url": "https://jobs.ashbyhq.com/langchain/0f35c8e1-9318-411d-929b-04c60e6d8522",
+     "excerpt": "e 100M+ monthly open source downloads, 6,000+ active LangSmith customers, and 5 of the Fortune 10 use LangSmith in production (+ 35% of the Fortune 500 overall), including teams at Klarna, Clay, Coinbase, Workday, Lyft, Cloudflare, Harvey, Rippling, Vanta, LinkedIn, Monday.com, Nvidia, and Bridgewater. About the Team This team works directly with companies building and running AI agents in production, helping turn id"
+    },
+    {
+     "company": "Scale AI",
+     "title": "Software Engineer, Public Sector - New Grad",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005",
+     "excerpt": "measures model reliability against mission requirements</li> <li>Ship full-stack tooling that lets analysts query, visualize, and explore mission data</li> <li>Deploy and harden applications into secure, air-gapped, and cloud-native government environments</li> </ul> <h2>Requirements</h2> <ul> <li>A graduation date in Fall 2026 or Spring 2027 with a Bachelor's degree (or equivalent) in a relevant field (Computer Scie"
+    }
+   ]
+  },
+  {
+   "skill": "rest apis",
+   "demand": 0.52,
+   "postings": 13,
+   "prior_mastery": 0.5,
+   "evidence": [
+    {
+     "company": "LangChain",
+     "title": "Deployed Engineer (Early Career- SF)",
+     "url": "https://jobs.ashbyhq.com/langchain/0f35c8e1-9318-411d-929b-04c60e6d8522",
+     "excerpt": "a similarly technical role, ideally at a startup or high-growth company Strong Python, JavaScript and systems fundamentals Hands-on experience building and deploying agent-based or LLM-powered applications beyond simple API calls, including multi-step workflows, orchestration, and failure handling Strong technical communication skills and builder credibility; Can explain technical tradeoffs clearly, translate complex"
+    },
+    {
+     "company": "Scale AI",
+     "title": "Software Engineer, Public Sector - New Grad",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005",
+     "excerpt": "a Bachelor's degree (or equivalent) in a relevant field (Computer Science, EECS, Computer Engineering, Statistics)</li> <li>Product engineering experience such as building web apps full-stack, integrating with relevant APIs and services, talking to users, figuring out 'what' to build and then iterating</li> <li>Previous Product/Software Engineering internship experience</li> <li>Track record of shipping high-quality "
+    }
+   ]
+  },
+  {
+   "skill": "data structures and algorithms",
+   "demand": 0.52,
+   "postings": 13,
+   "prior_mastery": 0.2,
+   "evidence": [
+    {
+     "company": "Scale AI",
+     "title": "Software Engineer - New Grad",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
+     "excerpt": "ove bad actors and keep Scale's contributor base safe and trusted</li> <li>Use models to estimate the quality of tasks and contributors, and guarantee quality on requests at large scale</li> <li>Devise advanced matching algorithms that pair contributors to customers for optimal turnaround and accuracy</li> <li>Create optimized and efficient UI/UX tooling, in combination with ML algorithms, for 100k+ contributors comp"
+    },
+    {
+     "company": "Scale AI",
+     "title": "Software Engineering Intern (Summer 2027) ",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005",
+     "excerpt": "ove bad actors and keep Scale's contributor base safe and trusted</li> <li>Use models to estimate the quality of tasks and contributors, and guarantee quality on requests at large scale</li> <li>Devise advanced matching algorithms that pair contributors to customers for optimal turnaround and accuracy</li> <li>Create optimized and efficient UI/UX tooling, in combination with ML algorithms, for 100k+ contributors comp"
+    }
+   ]
+  },
+  {
+   "skill": "typescript",
+   "demand": 0.48,
+   "postings": 12,
+   "prior_mastery": 0.2,
+   "evidence": [
+    {
+     "company": "Scale AI",
+     "title": "Software Engineer, Public Sector - New Grad",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005",
+     "excerpt": "re Engineering internship experience</li> <li>Track record of shipping high-quality products and features at scale</li> <li>Experience building systems that process large volumes of data</li> <li>Experience with Python, Typescript, React, and/or MongoDB</li> <li>Strong written and verbal communication — you will work directly with government stakeholders and must be able to explain technical concepts to non-technical"
+    },
+    {
+     "company": "Scale AI",
+     "title": "Software Engineer - New Grad",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
+     "excerpt": "re Engineering internship experience</li> <li>Track record of shipping high-quality products and features at scale</li> <li>Experience building systems that process large volumes of data</li> <li>Experience with Python, Typescript, React, and/or MongoDB</li> </ul> <h2><strong>Nice to Have</strong></h2> <ul> <li>Hands-on experience with LLMs, evaluations, or agentic systems — whether from internships, research, or per"
+    }
+   ]
+  },
+  {
+   "skill": "distributed systems",
+   "demand": 0.4,
+   "postings": 10,
+   "prior_mastery": 0.2,
+   "evidence": [
+    {
+     "company": "Scale AI",
+     "title": "Machine Learning Research Intern (Summer 2027)",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735665005",
+     "excerpt": "Our work spans generative AI, reinforcement learning and advanced post-training methods, scalable oversight, synthetic data pipelines, red teaming, and evaluation science.</p> <p>We are developing a large-scale hybrid human-machine system to power machine learning pipelines for dozens of industry-leading customers"
+    },
+    {
+     "company": "Ramp",
+     "title": "Applied Scientist Intern",
+     "url": "https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956",
+     "excerpt": "Working with engineers, product managers, and business stakeholders, you’ll translate complex business needs into scalable machine-learning-driven solutions. This is a chance to apply ML concretely, ship code, and create genuine value for Ramp and our customers. You will focus on exciting problems in areas like: credit, fraud, growth, or"
+    }
+   ]
+  },
+  {
+   "skill": "llm",
+   "demand": 0.36,
+   "postings": 9,
+   "prior_mastery": 0.4,
+   "evidence": [
+    {
+     "company": "LangChain",
+     "title": "Deployed Engineer (Early Career- SF)",
+     "url": "https://jobs.ashbyhq.com/langchain/0f35c8e1-9318-411d-929b-04c60e6d8522",
+     "excerpt": "engineering, founding engineering, or a similarly technical role, ideally at a startup or high-growth company Strong Python, JavaScript and systems fundamentals Hands-on experience building and deploying agent-based or LLM-powered applications beyond simple API calls, including multi-step workflows, orchestration, and failure handling Strong technical communication skills and builder credibility; Can explain technica"
+    },
+    {
+     "company": "Scale AI",
+     "title": "Machine Learning Research Intern (Summer 2027)",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735665005",
+     "excerpt": "Our work spans generative AI, reinforcement learning and advanced post-training methods, scalable oversight, synthetic data pipelines, red teaming, and evaluation science.</p> <p>We are developing a large-scale hybrid human-machine system to power"
+    }
+   ]
+  },
+  {
+   "skill": "evaluation",
+   "demand": 0.32,
+   "postings": 8,
+   "prior_mastery": 0.2,
+   "evidence": [
+    {
+     "company": "LangChain",
+     "title": "Deployed Engineer (Early Career- SF)",
+     "url": "https://jobs.ashbyhq.com/langchain/0f35c8e1-9318-411d-929b-04c60e6d8522",
+     "excerpt": "With $125M raised at Series B from IVP, Sequoia, Benchmark, CapitalG, and Sapphire Ventures, we’re at a stage where we’re continuing to develop new products, growth is accelerating, and all team members have meaningful impact on what we build and how we work together. LangChain"
+    },
+    {
+     "company": "Scale AI",
+     "title": "Machine Learning Research Intern (Summer 2027)",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735665005",
+     "excerpt": "Our work spans generative AI, reinforcement learning and advanced post-training methods, scalable oversight, synthetic data pipelines, red teaming, and evaluation science.</p> <p>We are developing a large-scale hybrid human-machine system to power machine learning pipelines for dozens of industry-leading customers. These models and systems form the backbone of Scale's long-term s"
+    }
+   ]
+  },
+  {
+   "skill": "agents",
+   "demand": 0.28,
+   "postings": 7,
+   "prior_mastery": 0.2,
+   "evidence": [
+    {
+     "company": "LangChain",
+     "title": "Deployed Engineer (Early Career- SF)",
+     "url": "https://jobs.ashbyhq.com/langchain/0f35c8e1-9318-411d-929b-04c60e6d8522",
+     "excerpt": "About Us At LangChain, our mission is to make intelligent agents ubiquitous. We build the foundation for agent engineering in the real world, helping developers move from prototypes to production-ready AI agents that teams can rely on. We began as widely adopted open-source tools and"
+    },
+    {
+     "company": "Scale AI",
+     "title": "Machine Learning Research Intern (Summer 2027)",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735665005",
+     "excerpt": "ke models currently in production, identify areas for improvement, improve them using retraining and hyperparameter searches, then deploy without regressing on core model characteristics</li> <li>Create post-training or agentic solutions that integrate into our ability to deliver applications for enterprise and public sector clients</li> </ul> <h2><strong>Required to Have</strong></h2> <ul> <li>Currently enrolled in "
+    }
+   ]
+  },
+  {
+   "skill": "testing",
+   "demand": 0.28,
+   "postings": 7,
+   "prior_mastery": 0.5,
+   "evidence": [
+    {
+     "company": "Ramp",
+     "title": "Applied Scientist Intern",
+     "url": "https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956",
+     "excerpt": "revious Experience: relevant experience applying AI/ML and demonstrating your passion for the field Production ML Mindset : knowledge of software engineering best practices applied to ML including version control (Git), testing, and writing maintainable code Data Orchestration : experience with leveraging modern data orchestration platforms (Airflow, Dagster, Prefect, Metaflow) Compensation The monthly rate for this "
+    },
+    {
+     "company": "Figma",
+     "title": "Data Engineer Intern (2027)",
+     "url": "https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004",
+     "excerpt": "ons</li> <li>Contribute to the tools and practices that make working with data at Figma easier</li> <li>With support from a manager and mentor, you’ll own a scoped project from problem definition through implementation, testing, documentation, and sharing the results.</li> </ul> <p><strong>Some projects you could work on:</strong></p> <ul> <li>Develop new ETL jobs to integrate product or business data into our wareho"
+    }
+   ]
+  },
+  {
+   "skill": "machine learning",
+   "demand": 0.24,
+   "postings": 6,
+   "prior_mastery": 0.5,
+   "evidence": [
+    {
+     "company": "Scale AI",
+     "title": "Machine Learning Research Intern (Summer 2027)",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735665005",
+     "excerpt": "</p> <p>Scale's Machine Learning Research team builds the foundation for the next generation of AI systems — pushing the boundaries of what's possible with frontier models while ensuring safety, reliability, and alignment at every step. Our work spans"
+    },
+    {
+     "company": "Scale AI",
+     "title": "Software Engineer, Public Sector - New Grad",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005",
+     "excerpt": "ically alert users to deviations and anomalies in incoming data</li> <li>Create interfaces that illustrate how an agent reached a decision, so operators can audit and trust its output</li> <li>Develop data pipelines and ML infrastructure that make previously siloed government data sources accessible to agents</li> <li>Build evaluation infrastructure that measures model reliability against mission requirements</li> <l"
+    }
+   ]
+  },
+  {
+   "skill": "system design",
+   "demand": 0.16,
+   "postings": 4,
+   "prior_mastery": 0.2,
+   "evidence": [
+    {
+     "company": "LangChain",
+     "title": "Deployed Engineer (Early Career- SF)",
+     "url": "https://jobs.ashbyhq.com/langchain/0f35c8e1-9318-411d-929b-04c60e6d8522",
+     "excerpt": "The focus is on achieving the technical win, co-designing agent architectures, and helping customers operate agents reliably at scale using the LangChain suite. Deployed Engineers sit at the intersection of engineering, product, and go-to-market , shaping how LangChain is adopted in the field an"
+    },
+    {
+     "company": "Palantir",
+     "title": "Forward Deployed Software Engineer, Internship - Commercial",
+     "url": "https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6",
+     "excerpt": "You will embed with the customer, the chaos, and the consequences, and will be entrusted with real ownership to: \nCollaborate with engineers to make architecture and design decisions\nWrestle with data at a scale that breaks assumptions and demands invention\nBuild custom applications, LLM workflows, and production solutions engineered for a specific customer's reality\nOwn relatio"
+    }
+   ]
+  }
+ ],
+ "skills": {
+  "python": {
+   "mastery": 0.56,
+   "n": 2,
+   "last": 0.9
+  },
+  "aws": {
+   "mastery": 0.33,
+   "n": 2,
+   "last": 0.45
+  },
+  "rest apis": {
+   "mastery": 0.5,
+   "n": 0,
+   "last": null
+  },
+  "data structures and algorithms": {
+   "mastery": 0.507,
+   "n": 2,
+   "last": 1
+  },
+  "typescript": {
+   "mastery": 0.245,
+   "n": 1,
+   "last": 0.29
+  },
+  "distributed systems": {
+   "mastery": 0.392,
+   "n": 1,
+   "last": 0.585
+  },
+  "llm": {
+   "mastery": 0.4,
+   "n": 0,
+   "last": null
+  },
+  "evaluation": {
+   "mastery": 0.2,
+   "n": 0,
+   "last": null
+  },
+  "agents": {
+   "mastery": 0.2,
+   "n": 0,
+   "last": null
+  },
+  "testing": {
+   "mastery": 0.5,
+   "n": 0,
+   "last": null
+  },
+  "machine learning": {
+   "mastery": 0.5,
+   "n": 0,
+   "last": null
+  },
+  "system design": {
+   "mastery": 0.2,
+   "n": 0,
+   "last": null
+  }
+ },
+ "startReadiness": {
+  "score": 33,
+  "coverage": 48,
+  "level": "Early"
+ },
+ "items": [
+  {
+   "skill": "python",
+   "type": "concept",
+   "difficulty": "foundational",
+   "question": "Python concept: A teammate writes an agent helper `def add_message(msg, history=[]): history.append(msg); return history` and is surprised that separate conversations start seeing each other's messages. Explain the mechanism in Python that causes this (when default arguments are evaluated and what is shared), show the idiomatic fix, and explain one tradeoff or related situation where the same mutable-aliasing behavior bites you, such as passing a list or dict into a function that mutates it, or copying a nested structure with a shallow versus deep copy.",
+   "rubric": [
+    {
+     "criterion": "Correctly explains that default argument values are evaluated once, at function definition time, so the same list object is reused across calls that omit the argument, which is why conversations share state.",
+     "weight": 0.4
+    },
+    {
+     "criterion": "Gives the idiomatic fix: use `history=None` as the default and create a new list inside the function (e.g. `if history is None: history = []`), and explains why this creates a fresh object per call.",
+     "weight": 0.25
+    },
+    {
+     "criterion": "Describes a related aliasing situation, such as a caller's list or dict being mutated by a function because names reference the same object, or a shallow copy (`list.copy()`, `dict(d)`) sharing nested objects while `copy.deepcopy` does not.",
+     "weight": 0.25
+    },
+    {
+     "criterion": "Notes a tradeoff or nuance, for example deepcopy costs more time and memory than a shallow copy, or `None` as a sentinel cannot distinguish 'not passed' from an intentionally passed None, or immutable defaults are safe.",
+     "weight": 0.1
+    }
+   ],
+   "model_answer": "Python evaluates default argument expressions once, when the `def` statement runs, so the default list is a single object stored on the function and every call that omits `history` mutates and returns that same list. The fix is `def add_message(msg, history=None): if history is None: history = []`, which builds a new list on each call. The same aliasing appears when a function mutates a list or dict passed in by the caller, or when a shallow copy such as `list.copy()` still shares nested objects; `copy.deepcopy` avoids that but costs more time and memory.",
+   "answers": [
+    {
+     "prompt": "Python concept: A teammate writes an agent helper `def add_message(msg, history=[]): history.append(msg); return history` and is surprised that separate conversations start seeing each other's messages. Explain the mechanism in Python that causes this (when default arguments are evaluated and what is shared), show the idiomatic fix, and explain one tradeoff or related situation where the same mutable-aliasing behavior bites you, such as passing a list or dict into a function that mutates it, or copying a nested structure with a shallow versus deep copy.",
+     "answer": "So the default `[]` is a single list object created once when `def` runs, and every call that doesn't pass `history` gets that same object, which is why conversations leak into each other. The idiomatic fix is a `None` sentinel: `def add_message(msg, history=None): history = [] if history is None else history; history.append(msg); return history`. I'd still watch for the same aliasing when a caller passes in their own list, since the function mutates it in place, so I'd copy it with `list(history)` if the caller shouldn't see changes. Nested structures are trickier: `list(history)` is only a shallow copy, so the inner dicts are still shared, and `copy.deepcopy` is needed if the agent edits those.",
+     "score": 0.9,
+     "criteria": [
+      {
+       "criterion": "Correctly explains that default argument values are evaluated once, at function definition time, so the same list object is reused across calls that omit the argument, which is why conversations share state.",
+       "weight": 0.4,
+       "met": 1,
+       "evidence": "the default `[]` is a single list object created once when `def` runs, and every call that doesn't pass `history` gets that same object",
+       "credit_removed": false
+      },
+      {
+       "criterion": "Gives the idiomatic fix: use `history=None` as the default and create a new list inside the function (e.g. `if history is None: history = []`), and explains why this creates a fresh object per call.",
+       "weight": 0.25,
+       "met": 1,
+       "evidence": "`def add_message(msg, history=None): history = [] if history is None else history; history.append(msg); return history`",
+       "credit_removed": false
+      },
+      {
+       "criterion": "Describes a related aliasing situation, such as a caller's list or dict being mutated by a function because names reference the same object, or a shallow copy (`list.copy()`, `dict(d)`) sharing nested objects while `copy.deepcopy` does not.",
+       "weight": 0.25,
+       "met": 1,
+       "evidence": "`list(history)` is only a shallow copy, so the inner dicts are still shared, and `copy.deepcopy` is needed if the agent edits those.",
+       "credit_removed": false
+      },
+      {
+       "criterion": "Notes a tradeoff or nuance, for example deepcopy costs more time and memory than a shallow copy, or `None` as a sentinel cannot distinguish 'not passed' from an intentionally passed None, or immutable defaults are safe.",
+       "weight": 0.1,
+       "met": 0,
+       "evidence": "",
+       "credit_removed": false
+      }
+     ],
+     "feedback": "Correct and concise on the definition-time evaluation, the None-sentinel fix, and both the caller-mutation and shallow-vs-deep copy aliasing cases. Missing is any explicit tradeoff or nuance, such as deepcopy's time and memory cost, None being unable to distinguish 'not passed' from an intentional None, or immutable defaults being safe. The fix also doesn't explicitly say why a fresh list per call results, though it is implied.",
+     "misconception": "",
+     "follow_up": "Your None sentinel fix treats a caller passing history=None the same as omitting it. When might that be a problem, and how would you handle it if it mattered?",
+     "follow_up_rubric": [
+      {
+       "criterion": "Identifies that None cannot distinguish 'not passed' from an explicitly passed None, so an intentional None gets silently replaced.",
+       "weight": 0.4
+      },
+      {
+       "criterion": "Proposes a remedy such as a unique module-level sentinel object (e.g. _MISSING = object()) compared with `is`.",
+       "weight": 0.4
+      },
+      {
+       "criterion": "Gives a plausible case where the distinction matters, such as None meaning 'no history/disable' versus 'use a new one'.",
+       "weight": 0.2
+      }
+     ],
+     "follow_up_answer": "If None is a meaningful value, the function can't tell it from an omitted argument, so it would wrongly create a new list. Use a private sentinel like `_MISSING = object()` as the default and check `history is _MISSING`."
+    }
+   ],
+   "score": 0.9,
+   "feedback": "Correct and concise on the definition-time evaluation, the None-sentinel fix, and both the caller-mutation and shallow-vs-deep copy aliasing cases. Missing is any explicit tradeoff or nuance, such as deepcopy's time and memory cost, None being unable to distinguish 'not passed' from an intentional None, or immutable defaults being safe. The fix also doesn't explicitly say why a fresh list per call results, though it is implied.",
+   "misconception": ""
+  },
+  {
+   "skill": "data structures and algorithms",
+   "type": "coding",
+   "difficulty": "foundational",
+   "question": "Scenario: You run a small startup whose agent product dedupes incoming support tickets before sending them to an LLM. Each night a job receives a list of about 2 million ticket IDs (strings), and you must drop duplicates while keeping the first occurrence order, and also check, for each of 50,000 'blocked' IDs, whether it appears in the batch. A teammate wrote the dedupe as `for t in tickets: if t not in seen_list: seen_list.append(t)` and uses `blocked_id in tickets` (a list) for the checks. The job takes hours. Decide what you would change and why. In your answer: (1) name the data structure(s) you would use and explain the mechanism that makes the lookup fast (what hashing does and the average vs worst-case cost), (2) give the before and after time complexity in terms of n, and (3) state one tradeoff or caveat of your choice (e.g. memory, ordering, or hashability), and how you would handle it. Include a short Python snippet (under 10 lines) for order-preserving dedupe.",
+   "rubric": [
+    {
+     "criterion": "Recommends a hash-based set (or dict) for membership checks and dedupe, and explains the mechanism: the key is hashed to a bucket/slot so lookup does not scan all elements, giving average O(1) and worst case O(n) under heavy collisions.",
+     "weight": 0.35
+    },
+    {
+     "criterion": "States correct complexity: the original approach is O(n^2) for dedupe (list membership is O(n) per check) and O(n*m) for m blocked checks; the fix is O(n) for dedupe and O(n+m) or O(m) lookups after building the set.",
+     "weight": 0.25
+    },
+    {
+     "criterion": "Provides a correct order-preserving dedupe snippet, e.g. a loop with a seen set and result list, or list(dict.fromkeys(tickets)), that works on an example such as ['a','b','a','c'] -> ['a','b','c'].",
+     "weight": 0.2
+    },
+    {
+     "criterion": "Names a valid tradeoff or caveat, such as extra O(n) memory for the set, plain sets not preserving order (so a list or dict is still needed), or elements needing to be hashable/immutable, and gives a reasonable way to handle it (e.g. streaming/chunking, dict ordering, converting to tuples).",
+     "weight": 0.2
+    }
+   ],
+   "model_answer": "Replace the list-based seen check with a set (and build a set of the batch for the blocked-ID lookups). A set hashes each key to a bucket, so membership is average O(1) instead of scanning, with O(n) worst case only under many collisions. This turns the dedupe from O(n^2) into O(n) and the blocked checks from O(n*m) into O(n+m). Order-preserving dedupe: `seen=set(); out=[]; for t in tickets: if t not in seen: seen.add(t); out.append(t)` (or `list(dict.fromkeys(tickets))`). The tradeoff is O(n) extra memory and that items must be hashable; for 2M strings this is fine, and if memory became a problem you could process in chunks or use a Bloom filter at the cost of false positives.",
+   "answers": [
+    {
+     "prompt": "Scenario: You run a small startup whose agent product dedupes incoming support tickets before sending them to an LLM. Each night a job receives a list of about 2 million ticket IDs (strings), and you must drop duplicates while keeping the first occurrence order, and also check, for each of 50,000 'blocked' IDs, whether it appears in the batch. A teammate wrote the dedupe as `for t in tickets: if t not in seen_list: seen_list.append(t)` and uses `blocked_id in tickets` (a list) for the checks. The job takes hours. Decide what you would change and why. In your answer: (1) name the data structure(s) you would use and explain the mechanism that makes the lookup fast (what hashing does and the average vs worst-case cost), (2) give the before and after time complexity in terms of n, and (3) state one tradeoff or caveat of your choice (e.g. memory, ordering, or hashability), and how you would handle it. Include a short Python snippet (under 10 lines) for order-preserving dedupe.",
+     "answer": "The `in` checks on a list are the bottleneck. Each one scans the whole list, so the dedupe is O(n²) over 2 million IDs, and each of the 50,000 blocked lookups is O(n). I'd use a `set` for membership: it hashes the string, jumps to a bucket, and compares, so each lookup is O(1) on average (O(n) worst case if many keys collide, which Python's randomized hashing makes rare). That brings dedupe to O(n) and the blocked checks to O(n + m), where m is the 50,000 blocked IDs. A plain set drops insertion order, so I'd use `dict.fromkeys`, which keeps first-seen order in Python 3.7+. The caveat is memory: a dict or set of 2 million strings lives in RAM, so I'd check whether the batch fits or process it in chunks.\n\n```python\ndef dedupe(tickets):\n    return list(dict.fromkeys(tickets))  # O(n), keeps first occurrence order\n\nunique = dedupe(tickets)\nbatch = set(unique)\nhits = [b for b in blocked_ids if b in batch]  # O(1) average per check\n```",
+     "score": 1,
+     "criteria": [
+      {
+       "criterion": "Recommends a hash-based set (or dict) for membership checks and dedupe, and explains the mechanism: the key is hashed to a bucket/slot so lookup does not scan all elements, giving average O(1) and worst case O(n) under heavy collisions.",
+       "weight": 0.35,
+       "met": 1,
+       "evidence": "it hashes the string, jumps to a bucket, and compares, so each lookup is O(1) on average (O(n) worst case if many keys collide, which Python's randomized hashing makes rare)",
+       "credit_removed": false
+      },
+      {
+       "criterion": "States correct complexity: the original approach is O(n^2) for dedupe (list membership is O(n) per check) and O(n*m) for m blocked checks; the fix is O(n) for dedupe and O(n+m) or O(m) lookups after building the set.",
+       "weight": 0.25,
+       "met": 1,
+       "evidence": "the dedupe is O(n²) over 2 million IDs, and each of the 50,000 blocked lookups is O(n). ... That brings dedupe to O(n) and the blocked checks to O(n + m)",
+       "credit_removed": false
+      },
+      {
+       "criterion": "Provides a correct order-preserving dedupe snippet, e.g. a loop with a seen set and result list, or list(dict.fromkeys(tickets)), that works on an example such as ['a','b','a','c'] -> ['a','b','c'].",
+       "weight": 0.2,
+       "met": 1,
+       "evidence": "return list(dict.fromkeys(tickets))  # O(n), keeps first occurrence order",
+       "credit_removed": false
+      },
+      {
+       "criterion": "Names a valid tradeoff or caveat, such as extra O(n) memory for the set, plain sets not preserving order (so a list or dict is still needed), or elements needing to be hashable/immutable, and gives a reasonable way to handle it (e.g. streaming/chunking, dict ordering, converting to tuples).",
+       "weight": 0.2,
+       "met": 1,
+       "evidence": "The caveat is memory: a dict or set of 2 million strings lives in RAM, so I'd check whether the batch fits or process it in chunks.",
+       "credit_removed": false
+      }
+     ],
+     "feedback": "Strong answer: it explains hashing to a bucket, gives average vs worst-case cost, states correct before/after complexities, and provides a correct order-preserving snippet. The memory caveat is valid, though the chunking remedy is vague (chunked dedupe needs a shared seen set to stay correct across chunks) and hashability is not mentioned.",
+     "misconception": "",
+     "follow_up": "You suggest processing in chunks if the batch doesn't fit in memory. If you dedupe each chunk independently, how do you still guarantee global deduplication and first-occurrence order across chunks, and what would you do if even the set of unique IDs can't fit in RAM?",
+     "follow_up_rubric": [
+      {
+       "criterion": "Recognizes that per-chunk dedupe alone is insufficient and a persistent/shared seen structure (or external store, sorting, or partitioning by hash) is needed across chunks",
+       "weight": 0.4
+      },
+      {
+       "criterion": "Preserves first-occurrence order across chunks, e.g. processing chunks in order against the shared seen set, or tracking original index",
+       "weight": 0.3
+      },
+      {
+       "criterion": "Offers a workable approach when unique IDs exceed RAM, such as hash-partitioning to disk, external sort, a database/key-value store, or a Bloom filter with its false-positive tradeoff",
+       "weight": 0.3
+      }
+     ],
+     "follow_up_answer": "Keep one seen set across chunks processed in order, so later chunks skip IDs seen earlier. If the unique IDs don't fit in RAM, hash-partition IDs to disk buckets (same ID goes to same bucket) and dedupe each bucket, tracking original index to restore order, or use an external store/Bloom filter accepting false positives."
+    }
+   ],
+   "score": 1,
+   "feedback": "Strong answer: it explains hashing to a bucket, gives average vs worst-case cost, states correct before/after complexities, and provides a correct order-preserving snippet. The memory caveat is valid, though the chunking remedy is vague (chunked dedupe needs a shared seen set to stay correct across chunks) and hashability is not mentioned.",
+   "misconception": ""
+  },
+  {
+   "skill": "distributed systems",
+   "type": "scenario",
+   "difficulty": "foundational",
+   "question": "Scenario: You're the first engineer at a small startup whose agent product processes customer refund requests. Each request triggers a worker that (1) calls an LLM, (2) issues a refund through a payment API, and (3) sends a confirmation email. Requests arrive via a queue (at-least-once delivery), and workers sometimes crash or time out mid-task, after which the queue redelivers the message. In testing, a few customers were refunded twice and emailed twice. A teammate suggests 'just add retries with a short timeout so nothing gets dropped' and another suggests 'make the queue exactly-once.' Decide what you would do and why. In your answer: (1) explain why a timeout or crash leaves you unable to know whether the refund happened, (2) explain what idempotency is and how you would implement it here (e.g., an idempotency key per request, and where it is stored/checked), and (3) state one tradeoff of your approach (e.g., latency, extra storage, at-least-once vs at-most-once, or retry behavior such as backoff).",
+   "rubric": [
+    {
+     "criterion": "Explains that a timeout or crash after sending a request leaves the outcome ambiguous (the call may have succeeded before the failure, or the response was lost), so naive retries can duplicate side effects under at-least-once delivery.",
+     "weight": 0.3
+    },
+    {
+     "criterion": "Defines idempotency (repeating an operation has the same effect as doing it once) and proposes a concrete mechanism, such as a unique idempotency key per refund request, passed to the payment API and/or recorded in a database with a check or unique constraint before performing the side effect.",
+     "weight": 0.4
+    },
+    {
+     "criterion": "Makes a clear decision that addresses both teammates' suggestions, e.g., keeping at-least-once delivery with idempotent consumers rather than relying on true exactly-once delivery, and notes that retries should use backoff and be safe because of idempotency.",
+     "weight": 0.15
+    },
+    {
+     "criterion": "States at least one valid tradeoff or caveat, such as extra storage and lookup latency for keys, key expiry/TTL choices, at-most-once risking dropped refunds, or the need to make the email step idempotent too.",
+     "weight": 0.15
+    }
+   ],
+   "model_answer": "A timeout or crash means the worker can't tell whether the payment API processed the refund before the failure, so retrying blindly under at-least-once delivery can double-refund and double-email. I'd keep at-least-once delivery and make the handler idempotent: derive a unique idempotency key per request (e.g., the request ID), pass it to the payment API, and record completed steps in a database with a unique constraint so redelivered messages skip work already done, using retries with exponential backoff. The tradeoff is extra storage and a lookup per message, plus deciding key expiry and making the email step idempotent as well; this is preferable to chasing true exactly-once delivery, which is impractical across external systems.",
+   "answers": [
+    {
+     "prompt": "Scenario: You're the first engineer at a small startup whose agent product processes customer refund requests. Each request triggers a worker that (1) calls an LLM, (2) issues a refund through a payment API, and (3) sends a confirmation email. Requests arrive via a queue (at-least-once delivery), and workers sometimes crash or time out mid-task, after which the queue redelivers the message. In testing, a few customers were refunded twice and emailed twice. A teammate suggests 'just add retries with a short timeout so nothing gets dropped' and another suggests 'make the queue exactly-once.' Decide what you would do and why. In your answer: (1) explain why a timeout or crash leaves you unable to know whether the refund happened, (2) explain what idempotency is and how you would implement it here (e.g., an idempotency key per request, and where it is stored/checked), and (3) state one tradeoff of your approach (e.g., latency, extra storage, at-least-once vs at-most-once, or retry behavior such as backoff).",
+     "answer": "Retrying with a short timeout won't fix this, because if the payment call times out, we can't tell whether the refund went through, so a retry could refund twice. I'd give each refund request a stable idempotency key, probably the refund request ID, and send it as the `Idempotency-Key` header on the payment API call, which makes the provider return the original result instead of issuing a second refund. I'd also record the key in our own database with a unique constraint and check it before calling the LLM or the payment API, so redelivered messages skip work that's already done. The tradeoff is an extra write and lookup per request and a retention policy for keys. I'd still need to make sure the confirmation email is keyed the same way, since I'm not sure a crash between the refund and the email send would be handled by the same check.",
+     "score": 0.775,
+     "criteria": [
+      {
+       "criterion": "Explains that a timeout or crash after sending a request leaves the outcome ambiguous (the call may have succeeded before the failure, or the response was lost), so naive retries can duplicate side effects under at-least-once delivery.",
+       "weight": 0.3,
+       "met": 0.5,
+       "evidence": "if the payment call times out, we can't tell whether the refund went through, so a retry could refund twice",
+       "credit_removed": false
+      },
+      {
+       "criterion": "Defines idempotency (repeating an operation has the same effect as doing it once) and proposes a concrete mechanism, such as a unique idempotency key per refund request, passed to the payment API and/or recorded in a database with a check or unique constraint before performing the side effect.",
+       "weight": 0.4,
+       "met": 1,
+       "evidence": "send it as the `Idempotency-Key` header on the payment API call, which makes the provider return the original result instead of issuing a second refund. I'd also record the key in our own database with a unique constraint and check it before calling the LLM or the payment API",
+       "credit_removed": false
+      },
+      {
+       "criterion": "Makes a clear decision that addresses both teammates' suggestions, e.g., keeping at-least-once delivery with idempotent consumers rather than relying on true exactly-once delivery, and notes that retries should use backoff and be safe because of idempotency.",
+       "weight": 0.15,
+       "met": 0.5,
+       "evidence": "Retrying with a short timeout won't fix this",
+       "credit_removed": false
+      },
+      {
+       "criterion": "States at least one valid tradeoff or caveat, such as extra storage and lookup latency for keys, key expiry/TTL choices, at-most-once risking dropped refunds, or the need to make the email step idempotent too.",
+       "weight": 0.15,
+       "met": 1,
+       "evidence": "The tradeoff is an extra write and lookup per request and a retention policy for keys. I'd still need to make sure the confirmation email is keyed the same way",
+       "credit_removed": false
+      }
+     ],
+     "feedback": "Strong on the mechanism: a stable key sent to the payment provider plus a database unique constraint checked before side effects, and valid tradeoffs (storage, lookup, key retention, email idempotency). Missing: an explicit response to the 'make the queue exactly-once' suggestion, a clear statement that you keep at-least-once delivery with idempotent consumers, any mention of backoff, and a definition of idempotency itself. The explanation of why a crash leaves the outcome unknown is brief and does not mention lost responses or redelivery.",
+     "misconception": "The answer treats checking the key in the database as a simple pre-check, which leaves a race between check and write, and it expresses uncertainty about whether the crash between refund and email is covered. It never addresses that exactly-once delivery is impractical across external systems.",
+     "follow_up": "Your worker crashes right after the payment API returns success but before you record the key as completed in your database. The message is redelivered. Walk through exactly what happens, and explain why your design does or does not double-refund and double-email.",
+     "follow_up_rubric": [
+      {
+       "criterion": "Explains that on redelivery the DB shows no completed record, so the worker re-calls the payment API, and the same Idempotency-Key makes the provider return the original result rather than refunding again.",
+       "weight": 0.4
+      },
+      {
+       "criterion": "Recognizes the email step is a separate side effect and needs its own per-step state or idempotency key (e.g., record step status, insert-then-send with unique constraint), noting a crash between send and record can still duplicate the email unless the email provider dedupes.",
+       "weight": 0.4
+      },
+      {
+       "criterion": "Mentions recording the key atomically (insert in-progress row with a unique constraint, rather than check-then-write) or tracking per-step completion to avoid races between concurrent redeliveries.",
+       "weight": 0.2
+      }
+     ],
+     "follow_up_answer": "On redelivery the DB has no completion record, so the worker calls the payment API again with the same Idempotency-Key and the provider returns the original refund without issuing a second one. The email needs its own per-step record or provider-side dedupe key, since a crash between sending and recording could still send a duplicate."
+    },
+    {
+     "prompt": "Your worker crashes right after the payment API returns success but before you record the key as completed in your database. The message is redelivered. Walk through exactly what happens, and explain why your design does or does not double-refund and double-email.",
+     "answer": "I'm pretty sure the fix is an idempotency key, so before the worker calls the payment API I'd write the key to the database with a status of \"pending.\" Then when the message is redelivered, the worker sees the key and skips the refund, so the customer doesn't get charged back twice. The one gap I'd still need to think through is what happens if the worker crashes between the API call and the email send, since the key might already show as \"completed\" while the email never went out. I'd probably also want to use something like the Outbox pattern so the email is queued in the same transaction as the status update. I haven't fully worked out how the \"pending\" state gets cleaned up if the worker dies and never comes back, though.",
+     "score": 0.3,
+     "criteria": [
+      {
+       "criterion": "Explains that on redelivery the DB shows no completed record, so the worker re-calls the payment API, and the same Idempotency-Key makes the provider return the original result rather than refunding again.",
+       "weight": 0.4,
+       "met": 0,
+       "evidence": "",
+       "credit_removed": false
+      },
+      {
+       "criterion": "Recognizes the email step is a separate side effect and needs its own per-step state or idempotency key (e.g., record step status, insert-then-send with unique constraint), noting a crash between send and record can still duplicate the email unless the email provider dedupes.",
+       "weight": 0.4,
+       "met": 0.5,
+       "evidence": "The one gap I'd still need to think through is what happens if the worker crashes between the API call and the email send, since the key might already show as \"completed\" while the email never went out.",
+       "credit_removed": false
+      },
+      {
+       "criterion": "Mentions recording the key atomically (insert in-progress row with a unique constraint, rather than check-then-write) or tracking per-step completion to avoid races between concurrent redeliveries.",
+       "weight": 0.2,
+       "met": 0.5,
+       "evidence": "before the worker calls the payment API I'd write the key to the database with a status of \"pending.\"",
+       "credit_removed": false
+      }
+     ],
+     "feedback": "You correctly identified that the email is a separate side effect and that a crash between steps is a gap, and writing a pending row before the call is the right instinct. However, your design skips the refund whenever a pending key exists. In the scenario in the question, the crash happened after the payment succeeded but before completion was recorded, so the row is still pending and you cannot know whether the refund happened. The answer never says the worker re-calls the payment API with the same Idempotency-Key so the provider returns the original result. The unique constraint for atomic insertion and the per-step state or email dedupe are also not stated explicitly, and the outbox idea is only partly applicable, since it does not cover a crash between send and record.",
+     "misconception": "Assuming that a pending key in the database means the refund can be skipped on redelivery. A pending row only means the attempt started, not that it finished. The safe approach is to retry the payment call with the same Idempotency-Key and let the provider dedupe it.",
+     "follow_up": "Your worker sees a 'pending' row for this key on redelivery and skips the refund. In the crash scenario, what if the crash happened before the payment API call actually went through? What would the customer experience, and how would you change the design so that both crash points are handled correctly?",
+     "follow_up_rubric": [
+      {
+       "criterion": "Recognizes that a pending row is ambiguous (the payment may or may not have happened), so skipping on pending can leave the refund never issued.",
+       "weight": 0.4
+      },
+      {
+       "criterion": "Proposes re-calling the payment API with the same Idempotency-Key on redelivery so the provider either returns the original result or performs it once.",
+       "weight": 0.4
+      },
+      {
+       "criterion": "Mentions a way to handle stuck pending rows, such as a lease or timeout, or per-step state recording.",
+       "weight": 0.2
+      }
+     ],
+     "follow_up_answer": "The customer would never get refunded, because skipping on a pending row treats an unfinished attempt as done. On redelivery the worker should re-call the payment API with the same Idempotency-Key, which either performs the refund once or returns the original result, and then mark the step complete."
+    }
+   ],
+   "score": 0.585,
+   "feedback": "You correctly identified that the email is a separate side effect and that a crash between steps is a gap, and writing a pending row before the call is the right instinct. However, your design skips the refund whenever a pending key exists. In the scenario in the question, the crash happened after the payment succeeded but before completion was recorded, so the row is still pending and you cannot know whether the refund happened. The answer never says the worker re-calls the payment API with the same Idempotency-Key so the provider returns the original result. The unique constraint for atomic insertion and the per-step state or email dedupe are also not stated explicitly, and the outbox idea is only partly applicable, since it does not cover a crash between send and record.",
+   "misconception": "The answer treats checking the key in the database as a simple pre-check, which leaves a race between check and write, and it expresses uncertainty about whether the crash between refund and email is covered. It never addresses that exactly-once delivery is impractical across external systems."
+  },
+  {
+   "skill": "aws",
+   "type": "concept",
+   "difficulty": "foundational",
+   "question": "Concept: Your agent stores user uploads (PDFs it later embeds) in Amazon S3, and a web app lets users download their own files. Explain two things. (1) How S3 differs from a block disk or filesystem such as EBS attached to an EC2 instance: what is the storage model (objects, keys, buckets), what consistency and durability can you rely on, and why does that make S3 a good fit for uploads but a poor fit for something like a database's data files or frequent small in-place edits? (2) Explain how you would let a user download only their own file without making the bucket public, using pre-signed URLs, and describe the tradeoff of choosing a short versus long expiry time.",
+   "rubric": [
+    {
+     "criterion": "Correctly describes S3 as object storage: flat namespace of keys in buckets, whole-object put/get, objects are replaced rather than edited in place, accessed over HTTP API, versus EBS block storage attached to one instance with low-latency random read/write.",
+     "weight": 0.3
+    },
+    {
+     "criterion": "Explains that S3 is highly durable (replicated across multiple facilities/AZs, eleven nines) and strongly consistent for reads after writes, and uses this plus the lack of in-place partial updates and higher per-request latency to justify why it suits uploads/blobs but not database data files or frequent small edits.",
+     "weight": 0.25
+    },
+    {
+     "criterion": "Explains pre-signed URLs: the server, using IAM credentials with limited permissions, signs a time-limited URL for a specific object key and method, so the bucket stays private and the user needs no AWS credentials; the server must check the user owns the file before signing (e.g., per-user key prefix).",
+     "weight": 0.25
+    },
+    {
+     "criterion": "States the expiry tradeoff: short expiry limits damage if the URL leaks or is shared but may break slow downloads or require re-requesting links; long expiry is more convenient but widens the window of unauthorized access and cannot easily be revoked.",
+     "weight": 0.2
+    }
+   ],
+   "model_answer": "S3 is object storage: data lives as whole objects under keys in a bucket, accessed over an HTTP API, with high durability (replicated across AZs) and strong read-after-write consistency. You cannot edit part of an object in place and each request has higher latency, so it fits uploads and blobs but not database files or frequent small edits, which suit block storage like EBS. For downloads, keep the bucket private, verify the user owns the key, then have the backend generate a pre-signed URL signed with its limited IAM role for that one object and method. A short expiry (minutes) limits the harm from leaked links but may break slow downloads or need re-issuing, while a long expiry is convenient but leaves a longer unrevocable window of access.",
+   "answers": [
+    {
+     "prompt": "Concept: Your agent stores user uploads (PDFs it later embeds) in Amazon S3, and a web app lets users download their own files. Explain two things. (1) How S3 differs from a block disk or filesystem such as EBS attached to an EC2 instance: what is the storage model (objects, keys, buckets), what consistency and durability can you rely on, and why does that make S3 a good fit for uploads but a poor fit for something like a database's data files or frequent small in-place edits? (2) Explain how you would let a user download only their own file without making the bucket public, using pre-signed URLs, and describe the tradeoff of choosing a short versus long expiry time.",
+     "answer": "S3 is object storage, so you upload a whole blob under a key in a bucket, and you can't edit bytes in place; you overwrite the entire object. That's fine for PDFs you upload once and read later, but it's a bad fit for database data files or small frequent edits, where EBS's block-level access is what you want. S3 now gives strong read-after-write consistency and very high durability across availability zones, so the embedding pipeline can rely on what it reads back. For downloads, I'd keep the bucket private, check in the app that the requesting user owns the object's key, then call `generate_presigned_url` with the GET method so they get a time-limited signed link. A short expiry limits damage if someone copies the link, but a long one is more convenient for slow downloads, so I'd probably pick around 5 minutes. I think that covers it, though the URL is probably only valid as long as the credentials that signed it.",
+     "score": 0.65,
+     "criteria": [
+      {
+       "criterion": "Correctly describes S3 as object storage: flat namespace of keys in buckets, whole-object put/get, objects are replaced rather than edited in place, accessed over HTTP API, versus EBS block storage attached to one instance with low-latency random read/write.",
+       "weight": 0.3,
+       "met": 1,
+       "evidence": "S3 is object storage, so you upload a whole blob under a key in a bucket, and you can't edit bytes in place; you overwrite the entire object.",
+       "credit_removed": false
+      },
+      {
+       "criterion": "Explains that S3 is highly durable (replicated across multiple facilities/AZs, eleven nines) and strongly consistent for reads after writes, and uses this plus the lack of in-place partial updates and higher per-request latency to justify why it suits uploads/blobs but not database data files or frequent small edits.",
+       "weight": 0.25,
+       "met": 0.5,
+       "evidence": "S3 now gives strong read-after-write consistency and very high durability across availability zones",
+       "credit_removed": false
+      },
+      {
+       "criterion": "Explains pre-signed URLs: the server, using IAM credentials with limited permissions, signs a time-limited URL for a specific object key and method, so the bucket stays private and the user needs no AWS credentials; the server must check the user owns the file before signing (e.g., per-user key prefix).",
+       "weight": 0.25,
+       "met": 0.5,
+       "evidence": "keep the bucket private, check in the app that the requesting user owns the object's key, then call `generate_presigned_url` with the GET method so they get a time-limited signed link",
+       "credit_removed": false
+      },
+      {
+       "criterion": "States the expiry tradeoff: short expiry limits damage if the URL leaks or is shared but may break slow downloads or require re-requesting links; long expiry is more convenient but widens the window of unauthorized access and cannot easily be revoked.",
+       "weight": 0.2,
+       "met": 0.5,
+       "evidence": "A short expiry limits damage if someone copies the link, but a long one is more convenient for slow downloads",
+       "credit_removed": false
+      }
+     ],
+     "feedback": "Strong on the object-versus-block distinction and on the ownership check before signing a GET URL. Missing: higher per-request latency as a reason against databases, the point that signing uses a limited-permission IAM role so users need no AWS credentials, and that a leaked long-lived URL cannot be easily revoked. The closing remark that the URL is valid only as long as the signing credentials is a hedge that is partly true (temporary role credentials can cut a URL's life short) but it is left vague and undeveloped.",
+     "misconception": "Implies convenience for slow downloads is the main benefit of long expiry and ignores that pre-signed URLs cannot be revoked once issued; the hedge about credential lifetime is left unexplained and uncertain.",
+     "follow_up": "A user shares their 5-minute download link in a chat, and you later learn the link was leaked within that window. Can you revoke it, and what would you change in your design to limit exposure for sensitive files?",
+     "follow_up_rubric": [
+      {
+       "criterion": "States that a pre-signed URL cannot be individually revoked before expiry (short of changing the signing credentials/permissions or deleting/moving the object)",
+       "weight": 0.4
+      },
+      {
+       "criterion": "Proposes mitigations such as shorter expiry, deleting or rotating the object key, or revoking the signing role's permissions or session",
+       "weight": 0.3
+      },
+      {
+       "criterion": "Explains the credential-lifetime point: a URL signed with temporary role credentials stops working when those credentials expire, so effective lifetime is the minimum of the two",
+       "weight": 0.3
+      }
+     ],
+     "follow_up_answer": "No, a pre-signed URL stays valid until it expires and cannot be revoked individually; you can only cut it off by deleting or moving the object or by revoking the signing credentials/role permissions. To limit exposure, use very short expiries, sign with temporary role credentials (whose expiry also caps the URL's life), and re-issue links per request."
+    },
+    {
+     "prompt": "A user shares their 5-minute download link in a chat, and you later learn the link was leaked within that window. Can you revoke it, and what would you change in your design to limit exposure for sensitive files?",
+     "answer": "Yes, I'd revoke it by deleting the link's record from the database or Redis so the server rejects it, because the signature alone can't be revoked. For sensitive files, I'd change the design to use a short TTL, a single-use nonce that gets marked as consumed on first use, and an ACL check on every request instead of trusting the signed URL. I'd also keep the bucket private and serve through a signed-URL endpoint so the storage path never leaks. I think I'd miss that a CDN may have already cached the object, so revoking the token doesn't stop an edge copy from being served, and I'd probably forget to purge it.",
+     "score": 0.15,
+     "criteria": [
+      {
+       "criterion": "States that a pre-signed URL cannot be individually revoked before expiry (short of changing the signing credentials/permissions or deleting/moving the object)",
+       "weight": 0.4,
+       "met": 0,
+       "evidence": "",
+       "credit_removed": false
+      },
+      {
+       "criterion": "Proposes mitigations such as shorter expiry, deleting or rotating the object key, or revoking the signing role's permissions or session",
+       "weight": 0.3,
+       "met": 0.5,
+       "evidence": "a short TTL, a single-use nonce that gets marked as consumed on first use, and an ACL check on every request instead of trusting the signed URL",
+       "credit_removed": false
+      },
+      {
+       "criterion": "Explains the credential-lifetime point: a URL signed with temporary role credentials stops working when those credentials expire, so effective lifetime is the minimum of the two",
+       "weight": 0.3,
+       "met": 0,
+       "evidence": "",
+       "credit_removed": false
+      }
+     ],
+     "feedback": "The answer says 'the signature alone can't be revoked', which hints at the right idea, but it opens with 'Yes' and proposes revoking via a database or Redis record. That only works if every download is proxied through your server, which is not how a plain S3 pre-signed URL behaves. Short TTLs and keeping the bucket private are good mitigations. It never mentions deleting or moving the object, revoking the signing role's permissions or session, or that temporary role credentials cap the URL's lifetime.",
+     "misconception": "A pre-signed URL can be revoked by deleting a record from a database or Redis. A pre-signed S3 URL is validated by S3 against the signature and the signer's permissions, not by your application's state, so it only works if downloads are proxied through your own server.",
+     "follow_up": "If you issue an S3 pre-signed URL signed by an IAM role's temporary credentials with a 12-hour session, and the user's link is set to expire in 5 minutes, how long can the link actually be used, and what could you do right now to kill a leaked link without touching your database?",
+     "follow_up_rubric": [
+      {
+       "criterion": "States that the effective lifetime is the minimum of the URL expiry and the credential expiry, so a 5-minute link lasts at most 5 minutes (or less if the credentials expire sooner).",
+       "weight": 0.4
+      },
+      {
+       "criterion": "Explains that S3 itself validates the URL, so an app-side record does not stop direct S3 access to a pre-signed URL.",
+       "weight": 0.3
+      },
+      {
+       "criterion": "Names a way to cut off a leaked link: delete or move the object, or revoke the signing role's permissions or active sessions (for example with a deny policy).",
+       "weight": 0.3
+      }
+     ],
+     "follow_up_answer": "The link works for the minimum of the two lifetimes, so at most 5 minutes, and less if the role session expires first. To kill it immediately, delete or move the object, or revoke the signing role's permissions or sessions (for example with a deny policy on tokens issued before now)."
+    }
+   ],
+   "score": 0.45,
+   "feedback": "The answer says 'the signature alone can't be revoked', which hints at the right idea, but it opens with 'Yes' and proposes revoking via a database or Redis record. That only works if every download is proxied through your server, which is not how a plain S3 pre-signed URL behaves. Short TTLs and keeping the bucket private are good mitigations. It never mentions deleting or moving the object, revoking the signing role's permissions or session, or that temporary role credentials cap the URL's lifetime.",
+   "misconception": "Implies convenience for slow downloads is the main benefit of long expiry and ignores that pre-signed URLs cannot be revoked once issued; the hedge about credential lifetime is left unexplained and uncertain."
+  }
+ ],
+ "current": null,
+ "report": {
+  "readiness": {
+   "score": 41,
+   "coverage": 56,
+   "level": "Building"
+  },
+  "start_readiness": {
+   "score": 33,
+   "coverage": 48,
+   "level": "Early"
+  },
+  "strengths": [],
+  "gaps": [
+   {
+    "skill": "python",
+    "mastery": 0.56,
+    "demand": 0.84,
+    "assessed": true
+   },
+   {
+    "skill": "typescript",
+    "mastery": 0.245,
+    "demand": 0.48,
+    "assessed": true
+   },
+   {
+    "skill": "aws",
+    "mastery": 0.33,
+    "demand": 0.52,
+    "assessed": true
+   },
+   {
+    "skill": "rest apis",
+    "mastery": 0.5,
+    "demand": 0.52,
+    "assessed": false
+   },
+   {
+    "skill": "data structures and algorithms",
+    "mastery": 0.507,
+    "demand": 0.52,
+    "assessed": true
+   }
+  ],
+  "skills": [
+   {
+    "skill": "python",
+    "demand": 0.84,
+    "mastery": 0.56,
+    "n": 2,
+    "last": 0.9
+   },
+   {
+    "skill": "aws",
+    "demand": 0.52,
+    "mastery": 0.33,
+    "n": 2,
+    "last": 0.45
+   },
+   {
+    "skill": "rest apis",
+    "demand": 0.52,
+    "mastery": 0.5,
+    "n": 0,
+    "last": null
+   },
+   {
+    "skill": "data structures and algorithms",
+    "demand": 0.52,
+    "mastery": 0.507,
+    "n": 2,
+    "last": 1
+   },
+   {
+    "skill": "typescript",
+    "demand": 0.48,
+    "mastery": 0.245,
+    "n": 1,
+    "last": 0.29
+   },
+   {
+    "skill": "distributed systems",
+    "demand": 0.4,
+    "mastery": 0.392,
+    "n": 1,
+    "last": 0.585
+   },
+   {
+    "skill": "llm",
+    "demand": 0.36,
+    "mastery": 0.4,
+    "n": 0,
+    "last": null
+   },
+   {
+    "skill": "evaluation",
+    "demand": 0.32,
+    "mastery": 0.2,
+    "n": 0,
+    "last": null
+   },
+   {
+    "skill": "agents",
+    "demand": 0.28,
+    "mastery": 0.2,
+    "n": 0,
+    "last": null
+   },
+   {
+    "skill": "testing",
+    "demand": 0.28,
+    "mastery": 0.5,
+    "n": 0,
+    "last": null
+   },
+   {
+    "skill": "machine learning",
+    "demand": 0.24,
+    "mastery": 0.5,
+    "n": 0,
+    "last": null
+   },
+   {
+    "skill": "system design",
+    "demand": 0.16,
+    "mastery": 0.2,
+    "n": 0,
+    "last": null
+   }
+  ],
+  "narrative": "generated",
+  "summary": "Your readiness score is 41 with 56% coverage, which puts you at the Building level and up from 33 (Early, 48% coverage) when you started. Python (mastery 0.56 against demand 0.84) is your biggest gap, and AWS (0.33 vs 0.52) and TypeScript (0.245 vs 0.48) trail behind, though your data structures answer was strong.",
+  "actions": [
+   {
+    "skill": "python",
+    "action": "Build a small agent-style script that calls an LLM API with a tool function, using None-sentinel defaults and deepcopy where needed. Write a short note on the tradeoffs: deepcopy cost, and None versus 'not passed'.",
+    "resource_url": "https://docs.python.org/3/tutorial/",
+    "due_in_days": 7
+   },
+   {
+    "skill": "aws",
+    "action": "Create a private S3 bucket and generate pre-signed URLs from both an IAM user and an assumed role. Test how each URL is invalidated by deleting the object, revoking the role's permissions, and letting the temporary credentials expire. Write down what each does.",
+    "resource_url": "https://skillbuilder.aws/",
+    "due_in_days": 7
+   },
+   {
+    "skill": "typescript",
+    "action": "Write a typed client for one REST endpoint, with interfaces for the request and response and a discriminated union for success and error results. Make it compile under strict mode.",
+    "resource_url": "https://www.typescriptlang.org/docs/handbook/intro.html",
+    "due_in_days": 7
+   },
+   {
+    "skill": "rest apis",
+    "action": "Build a FastAPI payment-style endpoint that accepts an Idempotency-Key header, enforces it with a unique DB constraint, and returns the stored result on retry. Test a simulated crash between the charge and recording completion.",
+    "resource_url": "https://fastapi.tiangolo.com/tutorial/",
+    "due_in_days": 7
+   }
+  ],
+  "next_milestone": "Ship a small public portfolio project, such as an agent with a recommender component deployed on AWS behind a REST API, and then retake the assessment aiming for a readiness score of 55 or higher before you start applying to applied AI engineering roles."
+ },
+ "finishedAt": "2026-11-02T01:16:34.797Z"
+}

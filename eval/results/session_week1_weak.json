@@ -1,0 +1,1236 @@
+{
+ "id": "week1_weak",
+ "startedAt": "2026-11-02T01:12:18.852Z",
+ "size": 4,
+ "opportunity": null,
+ "status": "finished",
+ "name": "the simulated learner",
+ "goal": "Land an applied AI engineering role building agents and recommender systems, and keep a path open to founding a startup.",
+ "demand": [
+  {
+   "skill": "python",
+   "demand": 0.84,
+   "postings": 21,
+   "prior_mastery": 0.6,
+   "evidence": [
+    {
+     "company": "LangChain",
+     "title": "Deployed Engineer (Early Career- SF)",
+     "url": "https://jobs.ashbyhq.com/langchain/0f35c8e1-9318-411d-929b-04c60e6d8522",
+     "excerpt": "ent What You’ll Bring 1-3 years of experience in software engineering, customer engineering, solutions engineering, founding engineering, or a similarly technical role, ideally at a startup or high-growth company Strong Python, JavaScript and systems fundamentals Hands-on experience building and deploying agent-based or LLM-powered applications beyond simple API calls, including multi-step workflows, orchestration, a"
+    },
+    {
+     "company": "Scale AI",
+     "title": "Machine Learning Research Intern (Summer 2027)",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735665005",
+     "excerpt": "perience or a track record of publications on LLMs, NLP, multimodal models, agents, safety, evaluation, alignment, or a related field</li> <li>Experience with one or more general purpose programming languages, including Python, Javascript, or similar</li> </ul> <h2><strong>Ideally You'd Have</strong></h2> <ul> <li>A previous internship in Machine Learning, Deep Learning, Natural Language Processing, Adversarial Robus"
+    }
+   ]
+  },
+  {
+   "skill": "aws",
+   "demand": 0.52,
+   "postings": 13,
+   "prior_mastery": 0.2,
+   "evidence": [
+    {
+     "company": "LangChain",
+     "title": "Deployed Engineer (Early Career- SF)",
+     "url": "https://jobs.ashbyhq.com/langchain/0f35c8e1-9318-411d-929b-04c60e6d8522",
+     "excerpt": "e 100M+ monthly open source downloads, 6,000+ active LangSmith customers, and 5 of the Fortune 10 use LangSmith in production (+ 35% of the Fortune 500 overall), including teams at Klarna, Clay, Coinbase, Workday, Lyft, Cloudflare, Harvey, Rippling, Vanta, LinkedIn, Monday.com, Nvidia, and Bridgewater. About the Team This team works directly with companies building and running AI agents in production, helping turn id"
+    },
+    {
+     "company": "Scale AI",
+     "title": "Software Engineer, Public Sector - New Grad",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005",
+     "excerpt": "measures model reliability against mission requirements</li> <li>Ship full-stack tooling that lets analysts query, visualize, and explore mission data</li> <li>Deploy and harden applications into secure, air-gapped, and cloud-native government environments</li> </ul> <h2>Requirements</h2> <ul> <li>A graduation date in Fall 2026 or Spring 2027 with a Bachelor's degree (or equivalent) in a relevant field (Computer Scie"
+    }
+   ]
+  },
+  {
+   "skill": "rest apis",
+   "demand": 0.52,
+   "postings": 13,
+   "prior_mastery": 0.5,
+   "evidence": [
+    {
+     "company": "LangChain",
+     "title": "Deployed Engineer (Early Career- SF)",
+     "url": "https://jobs.ashbyhq.com/langchain/0f35c8e1-9318-411d-929b-04c60e6d8522",
+     "excerpt": "a similarly technical role, ideally at a startup or high-growth company Strong Python, JavaScript and systems fundamentals Hands-on experience building and deploying agent-based or LLM-powered applications beyond simple API calls, including multi-step workflows, orchestration, and failure handling Strong technical communication skills and builder credibility; Can explain technical tradeoffs clearly, translate complex"
+    },
+    {
+     "company": "Scale AI",
+     "title": "Software Engineer, Public Sector - New Grad",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005",
+     "excerpt": "a Bachelor's degree (or equivalent) in a relevant field (Computer Science, EECS, Computer Engineering, Statistics)</li> <li>Product engineering experience such as building web apps full-stack, integrating with relevant APIs and services, talking to users, figuring out 'what' to build and then iterating</li> <li>Previous Product/Software Engineering internship experience</li> <li>Track record of shipping high-quality "
+    }
+   ]
+  },
+  {
+   "skill": "data structures and algorithms",
+   "demand": 0.52,
+   "postings": 13,
+   "prior_mastery": 0.2,
+   "evidence": [
+    {
+     "company": "Scale AI",
+     "title": "Software Engineer - New Grad",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
+     "excerpt": "ove bad actors and keep Scale's contributor base safe and trusted</li> <li>Use models to estimate the quality of tasks and contributors, and guarantee quality on requests at large scale</li> <li>Devise advanced matching algorithms that pair contributors to customers for optimal turnaround and accuracy</li> <li>Create optimized and efficient UI/UX tooling, in combination with ML algorithms, for 100k+ contributors comp"
+    },
+    {
+     "company": "Scale AI",
+     "title": "Software Engineering Intern (Summer 2027) ",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005",
+     "excerpt": "ove bad actors and keep Scale's contributor base safe and trusted</li> <li>Use models to estimate the quality of tasks and contributors, and guarantee quality on requests at large scale</li> <li>Devise advanced matching algorithms that pair contributors to customers for optimal turnaround and accuracy</li> <li>Create optimized and efficient UI/UX tooling, in combination with ML algorithms, for 100k+ contributors comp"
+    }
+   ]
+  },
+  {
+   "skill": "typescript",
+   "demand": 0.48,
+   "postings": 12,
+   "prior_mastery": 0.2,
+   "evidence": [
+    {
+     "company": "Scale AI",
+     "title": "Software Engineer, Public Sector - New Grad",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005",
+     "excerpt": "re Engineering internship experience</li> <li>Track record of shipping high-quality products and features at scale</li> <li>Experience building systems that process large volumes of data</li> <li>Experience with Python, Typescript, React, and/or MongoDB</li> <li>Strong written and verbal communication — you will work directly with government stakeholders and must be able to explain technical concepts to non-technical"
+    },
+    {
+     "company": "Scale AI",
+     "title": "Software Engineer - New Grad",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
+     "excerpt": "re Engineering internship experience</li> <li>Track record of shipping high-quality products and features at scale</li> <li>Experience building systems that process large volumes of data</li> <li>Experience with Python, Typescript, React, and/or MongoDB</li> </ul> <h2><strong>Nice to Have</strong></h2> <ul> <li>Hands-on experience with LLMs, evaluations, or agentic systems — whether from internships, research, or per"
+    }
+   ]
+  },
+  {
+   "skill": "distributed systems",
+   "demand": 0.4,
+   "postings": 10,
+   "prior_mastery": 0.2,
+   "evidence": [
+    {
+     "company": "Scale AI",
+     "title": "Machine Learning Research Intern (Summer 2027)",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735665005",
+     "excerpt": "Our work spans generative AI, reinforcement learning and advanced post-training methods, scalable oversight, synthetic data pipelines, red teaming, and evaluation science.</p> <p>We are developing a large-scale hybrid human-machine system to power machine learning pipelines for dozens of industry-leading customers"
+    },
+    {
+     "company": "Ramp",
+     "title": "Applied Scientist Intern",
+     "url": "https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956",
+     "excerpt": "Working with engineers, product managers, and business stakeholders, you’ll translate complex business needs into scalable machine-learning-driven solutions. This is a chance to apply ML concretely, ship code, and create genuine value for Ramp and our customers. You will focus on exciting problems in areas like: credit, fraud, growth, or"
+    }
+   ]
+  },
+  {
+   "skill": "llm",
+   "demand": 0.36,
+   "postings": 9,
+   "prior_mastery": 0.4,
+   "evidence": [
+    {
+     "company": "LangChain",
+     "title": "Deployed Engineer (Early Career- SF)",
+     "url": "https://jobs.ashbyhq.com/langchain/0f35c8e1-9318-411d-929b-04c60e6d8522",
+     "excerpt": "engineering, founding engineering, or a similarly technical role, ideally at a startup or high-growth company Strong Python, JavaScript and systems fundamentals Hands-on experience building and deploying agent-based or LLM-powered applications beyond simple API calls, including multi-step workflows, orchestration, and failure handling Strong technical communication skills and builder credibility; Can explain technica"
+    },
+    {
+     "company": "Scale AI",
+     "title": "Machine Learning Research Intern (Summer 2027)",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735665005",
+     "excerpt": "Our work spans generative AI, reinforcement learning and advanced post-training methods, scalable oversight, synthetic data pipelines, red teaming, and evaluation science.</p> <p>We are developing a large-scale hybrid human-machine system to power"
+    }
+   ]
+  },
+  {
+   "skill": "evaluation",
+   "demand": 0.32,
+   "postings": 8,
+   "prior_mastery": 0.2,
+   "evidence": [
+    {
+     "company": "LangChain",
+     "title": "Deployed Engineer (Early Career- SF)",
+     "url": "https://jobs.ashbyhq.com/langchain/0f35c8e1-9318-411d-929b-04c60e6d8522",
+     "excerpt": "With $125M raised at Series B from IVP, Sequoia, Benchmark, CapitalG, and Sapphire Ventures, we’re at a stage where we’re continuing to develop new products, growth is accelerating, and all team members have meaningful impact on what we build and how we work together. LangChain"
+    },
+    {
+     "company": "Scale AI",
+     "title": "Machine Learning Research Intern (Summer 2027)",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735665005",
+     "excerpt": "Our work spans generative AI, reinforcement learning and advanced post-training methods, scalable oversight, synthetic data pipelines, red teaming, and evaluation science.</p> <p>We are developing a large-scale hybrid human-machine system to power machine learning pipelines for dozens of industry-leading customers. These models and systems form the backbone of Scale's long-term s"
+    }
+   ]
+  },
+  {
+   "skill": "agents",
+   "demand": 0.28,
+   "postings": 7,
+   "prior_mastery": 0.2,
+   "evidence": [
+    {
+     "company": "LangChain",
+     "title": "Deployed Engineer (Early Career- SF)",
+     "url": "https://jobs.ashbyhq.com/langchain/0f35c8e1-9318-411d-929b-04c60e6d8522",
+     "excerpt": "About Us At LangChain, our mission is to make intelligent agents ubiquitous. We build the foundation for agent engineering in the real world, helping developers move from prototypes to production-ready AI agents that teams can rely on. We began as widely adopted open-source tools and"
+    },
+    {
+     "company": "Scale AI",
+     "title": "Machine Learning Research Intern (Summer 2027)",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735665005",
+     "excerpt": "ke models currently in production, identify areas for improvement, improve them using retraining and hyperparameter searches, then deploy without regressing on core model characteristics</li> <li>Create post-training or agentic solutions that integrate into our ability to deliver applications for enterprise and public sector clients</li> </ul> <h2><strong>Required to Have</strong></h2> <ul> <li>Currently enrolled in "
+    }
+   ]
+  },
+  {
+   "skill": "testing",
+   "demand": 0.28,
+   "postings": 7,
+   "prior_mastery": 0.5,
+   "evidence": [
+    {
+     "company": "Ramp",
+     "title": "Applied Scientist Intern",
+     "url": "https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956",
+     "excerpt": "revious Experience: relevant experience applying AI/ML and demonstrating your passion for the field Production ML Mindset : knowledge of software engineering best practices applied to ML including version control (Git), testing, and writing maintainable code Data Orchestration : experience with leveraging modern data orchestration platforms (Airflow, Dagster, Prefect, Metaflow) Compensation The monthly rate for this "
+    },
+    {
+     "company": "Figma",
+     "title": "Data Engineer Intern (2027)",
+     "url": "https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004",
+     "excerpt": "ons</li> <li>Contribute to the tools and practices that make working with data at Figma easier</li> <li>With support from a manager and mentor, you’ll own a scoped project from problem definition through implementation, testing, documentation, and sharing the results.</li> </ul> <p><strong>Some projects you could work on:</strong></p> <ul> <li>Develop new ETL jobs to integrate product or business data into our wareho"
+    }
+   ]
+  },
+  {
+   "skill": "machine learning",
+   "demand": 0.24,
+   "postings": 6,
+   "prior_mastery": 0.5,
+   "evidence": [
+    {
+     "company": "Scale AI",
+     "title": "Machine Learning Research Intern (Summer 2027)",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735665005",
+     "excerpt": "</p> <p>Scale's Machine Learning Research team builds the foundation for the next generation of AI systems — pushing the boundaries of what's possible with frontier models while ensuring safety, reliability, and alignment at every step. Our work spans"
+    },
+    {
+     "company": "Scale AI",
+     "title": "Software Engineer, Public Sector - New Grad",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005",
+     "excerpt": "ically alert users to deviations and anomalies in incoming data</li> <li>Create interfaces that illustrate how an agent reached a decision, so operators can audit and trust its output</li> <li>Develop data pipelines and ML infrastructure that make previously siloed government data sources accessible to agents</li> <li>Build evaluation infrastructure that measures model reliability against mission requirements</li> <l"
+    }
+   ]
+  },
+  {
+   "skill": "system design",
+   "demand": 0.16,
+   "postings": 4,
+   "prior_mastery": 0.2,
+   "evidence": [
+    {
+     "company": "LangChain",
+     "title": "Deployed Engineer (Early Career- SF)",
+     "url": "https://jobs.ashbyhq.com/langchain/0f35c8e1-9318-411d-929b-04c60e6d8522",
+     "excerpt": "The focus is on achieving the technical win, co-designing agent architectures, and helping customers operate agents reliably at scale using the LangChain suite. Deployed Engineers sit at the intersection of engineering, product, and go-to-market , shaping how LangChain is adopted in the field an"
+    },
+    {
+     "company": "Palantir",
+     "title": "Forward Deployed Software Engineer, Internship - Commercial",
+     "url": "https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6",
+     "excerpt": "You will embed with the customer, the chaos, and the consequences, and will be entrusted with real ownership to: \nCollaborate with engineers to make architecture and design decisions\nWrestle with data at a scale that breaks assumptions and demands invention\nBuild custom applications, LLM workflows, and production solutions engineered for a specific customer's reality\nOwn relatio"
+    }
+   ]
+  }
+ ],
+ "focus": [
+  {
+   "skill": "python",
+   "demand": 0.84,
+   "postings": 21,
+   "prior_mastery": 0.6,
+   "evidence": [
+    {
+     "company": "LangChain",
+     "title": "Deployed Engineer (Early Career- SF)",
+     "url": "https://jobs.ashbyhq.com/langchain/0f35c8e1-9318-411d-929b-04c60e6d8522",
+     "excerpt": "ent What You’ll Bring 1-3 years of experience in software engineering, customer engineering, solutions engineering, founding engineering, or a similarly technical role, ideally at a startup or high-growth company Strong Python, JavaScript and systems fundamentals Hands-on experience building and deploying agent-based or LLM-powered applications beyond simple API calls, including multi-step workflows, orchestration, a"
+    },
+    {
+     "company": "Scale AI",
+     "title": "Machine Learning Research Intern (Summer 2027)",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735665005",
+     "excerpt": "perience or a track record of publications on LLMs, NLP, multimodal models, agents, safety, evaluation, alignment, or a related field</li> <li>Experience with one or more general purpose programming languages, including Python, Javascript, or similar</li> </ul> <h2><strong>Ideally You'd Have</strong></h2> <ul> <li>A previous internship in Machine Learning, Deep Learning, Natural Language Processing, Adversarial Robus"
+    }
+   ]
+  },
+  {
+   "skill": "aws",
+   "demand": 0.52,
+   "postings": 13,
+   "prior_mastery": 0.2,
+   "evidence": [
+    {
+     "company": "LangChain",
+     "title": "Deployed Engineer (Early Career- SF)",
+     "url": "https://jobs.ashbyhq.com/langchain/0f35c8e1-9318-411d-929b-04c60e6d8522",
+     "excerpt": "e 100M+ monthly open source downloads, 6,000+ active LangSmith customers, and 5 of the Fortune 10 use LangSmith in production (+ 35% of the Fortune 500 overall), including teams at Klarna, Clay, Coinbase, Workday, Lyft, Cloudflare, Harvey, Rippling, Vanta, LinkedIn, Monday.com, Nvidia, and Bridgewater. About the Team This team works directly with companies building and running AI agents in production, helping turn id"
+    },
+    {
+     "company": "Scale AI",
+     "title": "Software Engineer, Public Sector - New Grad",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005",
+     "excerpt": "measures model reliability against mission requirements</li> <li>Ship full-stack tooling that lets analysts query, visualize, and explore mission data</li> <li>Deploy and harden applications into secure, air-gapped, and cloud-native government environments</li> </ul> <h2>Requirements</h2> <ul> <li>A graduation date in Fall 2026 or Spring 2027 with a Bachelor's degree (or equivalent) in a relevant field (Computer Scie"
+    }
+   ]
+  },
+  {
+   "skill": "rest apis",
+   "demand": 0.52,
+   "postings": 13,
+   "prior_mastery": 0.5,
+   "evidence": [
+    {
+     "company": "LangChain",
+     "title": "Deployed Engineer (Early Career- SF)",
+     "url": "https://jobs.ashbyhq.com/langchain/0f35c8e1-9318-411d-929b-04c60e6d8522",
+     "excerpt": "a similarly technical role, ideally at a startup or high-growth company Strong Python, JavaScript and systems fundamentals Hands-on experience building and deploying agent-based or LLM-powered applications beyond simple API calls, including multi-step workflows, orchestration, and failure handling Strong technical communication skills and builder credibility; Can explain technical tradeoffs clearly, translate complex"
+    },
+    {
+     "company": "Scale AI",
+     "title": "Software Engineer, Public Sector - New Grad",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005",
+     "excerpt": "a Bachelor's degree (or equivalent) in a relevant field (Computer Science, EECS, Computer Engineering, Statistics)</li> <li>Product engineering experience such as building web apps full-stack, integrating with relevant APIs and services, talking to users, figuring out 'what' to build and then iterating</li> <li>Previous Product/Software Engineering internship experience</li> <li>Track record of shipping high-quality "
+    }
+   ]
+  },
+  {
+   "skill": "data structures and algorithms",
+   "demand": 0.52,
+   "postings": 13,
+   "prior_mastery": 0.2,
+   "evidence": [
+    {
+     "company": "Scale AI",
+     "title": "Software Engineer - New Grad",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
+     "excerpt": "ove bad actors and keep Scale's contributor base safe and trusted</li> <li>Use models to estimate the quality of tasks and contributors, and guarantee quality on requests at large scale</li> <li>Devise advanced matching algorithms that pair contributors to customers for optimal turnaround and accuracy</li> <li>Create optimized and efficient UI/UX tooling, in combination with ML algorithms, for 100k+ contributors comp"
+    },
+    {
+     "company": "Scale AI",
+     "title": "Software Engineering Intern (Summer 2027) ",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005",
+     "excerpt": "ove bad actors and keep Scale's contributor base safe and trusted</li> <li>Use models to estimate the quality of tasks and contributors, and guarantee quality on requests at large scale</li> <li>Devise advanced matching algorithms that pair contributors to customers for optimal turnaround and accuracy</li> <li>Create optimized and efficient UI/UX tooling, in combination with ML algorithms, for 100k+ contributors comp"
+    }
+   ]
+  },
+  {
+   "skill": "typescript",
+   "demand": 0.48,
+   "postings": 12,
+   "prior_mastery": 0.2,
+   "evidence": [
+    {
+     "company": "Scale AI",
+     "title": "Software Engineer, Public Sector - New Grad",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005",
+     "excerpt": "re Engineering internship experience</li> <li>Track record of shipping high-quality products and features at scale</li> <li>Experience building systems that process large volumes of data</li> <li>Experience with Python, Typescript, React, and/or MongoDB</li> <li>Strong written and verbal communication — you will work directly with government stakeholders and must be able to explain technical concepts to non-technical"
+    },
+    {
+     "company": "Scale AI",
+     "title": "Software Engineer - New Grad",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
+     "excerpt": "re Engineering internship experience</li> <li>Track record of shipping high-quality products and features at scale</li> <li>Experience building systems that process large volumes of data</li> <li>Experience with Python, Typescript, React, and/or MongoDB</li> </ul> <h2><strong>Nice to Have</strong></h2> <ul> <li>Hands-on experience with LLMs, evaluations, or agentic systems — whether from internships, research, or per"
+    }
+   ]
+  },
+  {
+   "skill": "distributed systems",
+   "demand": 0.4,
+   "postings": 10,
+   "prior_mastery": 0.2,
+   "evidence": [
+    {
+     "company": "Scale AI",
+     "title": "Machine Learning Research Intern (Summer 2027)",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735665005",
+     "excerpt": "Our work spans generative AI, reinforcement learning and advanced post-training methods, scalable oversight, synthetic data pipelines, red teaming, and evaluation science.</p> <p>We are developing a large-scale hybrid human-machine system to power machine learning pipelines for dozens of industry-leading customers"
+    },
+    {
+     "company": "Ramp",
+     "title": "Applied Scientist Intern",
+     "url": "https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956",
+     "excerpt": "Working with engineers, product managers, and business stakeholders, you’ll translate complex business needs into scalable machine-learning-driven solutions. This is a chance to apply ML concretely, ship code, and create genuine value for Ramp and our customers. You will focus on exciting problems in areas like: credit, fraud, growth, or"
+    }
+   ]
+  },
+  {
+   "skill": "llm",
+   "demand": 0.36,
+   "postings": 9,
+   "prior_mastery": 0.4,
+   "evidence": [
+    {
+     "company": "LangChain",
+     "title": "Deployed Engineer (Early Career- SF)",
+     "url": "https://jobs.ashbyhq.com/langchain/0f35c8e1-9318-411d-929b-04c60e6d8522",
+     "excerpt": "engineering, founding engineering, or a similarly technical role, ideally at a startup or high-growth company Strong Python, JavaScript and systems fundamentals Hands-on experience building and deploying agent-based or LLM-powered applications beyond simple API calls, including multi-step workflows, orchestration, and failure handling Strong technical communication skills and builder credibility; Can explain technica"
+    },
+    {
+     "company": "Scale AI",
+     "title": "Machine Learning Research Intern (Summer 2027)",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735665005",
+     "excerpt": "Our work spans generative AI, reinforcement learning and advanced post-training methods, scalable oversight, synthetic data pipelines, red teaming, and evaluation science.</p> <p>We are developing a large-scale hybrid human-machine system to power"
+    }
+   ]
+  },
+  {
+   "skill": "evaluation",
+   "demand": 0.32,
+   "postings": 8,
+   "prior_mastery": 0.2,
+   "evidence": [
+    {
+     "company": "LangChain",
+     "title": "Deployed Engineer (Early Career- SF)",
+     "url": "https://jobs.ashbyhq.com/langchain/0f35c8e1-9318-411d-929b-04c60e6d8522",
+     "excerpt": "With $125M raised at Series B from IVP, Sequoia, Benchmark, CapitalG, and Sapphire Ventures, we’re at a stage where we’re continuing to develop new products, growth is accelerating, and all team members have meaningful impact on what we build and how we work together. LangChain"
+    },
+    {
+     "company": "Scale AI",
+     "title": "Machine Learning Research Intern (Summer 2027)",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735665005",
+     "excerpt": "Our work spans generative AI, reinforcement learning and advanced post-training methods, scalable oversight, synthetic data pipelines, red teaming, and evaluation science.</p> <p>We are developing a large-scale hybrid human-machine system to power machine learning pipelines for dozens of industry-leading customers. These models and systems form the backbone of Scale's long-term s"
+    }
+   ]
+  },
+  {
+   "skill": "agents",
+   "demand": 0.28,
+   "postings": 7,
+   "prior_mastery": 0.2,
+   "evidence": [
+    {
+     "company": "LangChain",
+     "title": "Deployed Engineer (Early Career- SF)",
+     "url": "https://jobs.ashbyhq.com/langchain/0f35c8e1-9318-411d-929b-04c60e6d8522",
+     "excerpt": "About Us At LangChain, our mission is to make intelligent agents ubiquitous. We build the foundation for agent engineering in the real world, helping developers move from prototypes to production-ready AI agents that teams can rely on. We began as widely adopted open-source tools and"
+    },
+    {
+     "company": "Scale AI",
+     "title": "Machine Learning Research Intern (Summer 2027)",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735665005",
+     "excerpt": "ke models currently in production, identify areas for improvement, improve them using retraining and hyperparameter searches, then deploy without regressing on core model characteristics</li> <li>Create post-training or agentic solutions that integrate into our ability to deliver applications for enterprise and public sector clients</li> </ul> <h2><strong>Required to Have</strong></h2> <ul> <li>Currently enrolled in "
+    }
+   ]
+  },
+  {
+   "skill": "testing",
+   "demand": 0.28,
+   "postings": 7,
+   "prior_mastery": 0.5,
+   "evidence": [
+    {
+     "company": "Ramp",
+     "title": "Applied Scientist Intern",
+     "url": "https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956",
+     "excerpt": "revious Experience: relevant experience applying AI/ML and demonstrating your passion for the field Production ML Mindset : knowledge of software engineering best practices applied to ML including version control (Git), testing, and writing maintainable code Data Orchestration : experience with leveraging modern data orchestration platforms (Airflow, Dagster, Prefect, Metaflow) Compensation The monthly rate for this "
+    },
+    {
+     "company": "Figma",
+     "title": "Data Engineer Intern (2027)",
+     "url": "https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004",
+     "excerpt": "ons</li> <li>Contribute to the tools and practices that make working with data at Figma easier</li> <li>With support from a manager and mentor, you’ll own a scoped project from problem definition through implementation, testing, documentation, and sharing the results.</li> </ul> <p><strong>Some projects you could work on:</strong></p> <ul> <li>Develop new ETL jobs to integrate product or business data into our wareho"
+    }
+   ]
+  },
+  {
+   "skill": "machine learning",
+   "demand": 0.24,
+   "postings": 6,
+   "prior_mastery": 0.5,
+   "evidence": [
+    {
+     "company": "Scale AI",
+     "title": "Machine Learning Research Intern (Summer 2027)",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735665005",
+     "excerpt": "</p> <p>Scale's Machine Learning Research team builds the foundation for the next generation of AI systems — pushing the boundaries of what's possible with frontier models while ensuring safety, reliability, and alignment at every step. Our work spans"
+    },
+    {
+     "company": "Scale AI",
+     "title": "Software Engineer, Public Sector - New Grad",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005",
+     "excerpt": "ically alert users to deviations and anomalies in incoming data</li> <li>Create interfaces that illustrate how an agent reached a decision, so operators can audit and trust its output</li> <li>Develop data pipelines and ML infrastructure that make previously siloed government data sources accessible to agents</li> <li>Build evaluation infrastructure that measures model reliability against mission requirements</li> <l"
+    }
+   ]
+  },
+  {
+   "skill": "system design",
+   "demand": 0.16,
+   "postings": 4,
+   "prior_mastery": 0.2,
+   "evidence": [
+    {
+     "company": "LangChain",
+     "title": "Deployed Engineer (Early Career- SF)",
+     "url": "https://jobs.ashbyhq.com/langchain/0f35c8e1-9318-411d-929b-04c60e6d8522",
+     "excerpt": "The focus is on achieving the technical win, co-designing agent architectures, and helping customers operate agents reliably at scale using the LangChain suite. Deployed Engineers sit at the intersection of engineering, product, and go-to-market , shaping how LangChain is adopted in the field an"
+    },
+    {
+     "company": "Palantir",
+     "title": "Forward Deployed Software Engineer, Internship - Commercial",
+     "url": "https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6",
+     "excerpt": "You will embed with the customer, the chaos, and the consequences, and will be entrusted with real ownership to: \nCollaborate with engineers to make architecture and design decisions\nWrestle with data at a scale that breaks assumptions and demands invention\nBuild custom applications, LLM workflows, and production solutions engineered for a specific customer's reality\nOwn relatio"
+    }
+   ]
+  }
+ ],
+ "skills": {
+  "python": {
+   "mastery": 0.39,
+   "n": 1,
+   "last": 0.18
+  },
+  "aws": {
+   "mastery": 0.27,
+   "n": 1,
+   "last": 0.34
+  },
+  "rest apis": {
+   "mastery": 0.5,
+   "n": 0,
+   "last": null
+  },
+  "data structures and algorithms": {
+   "mastery": 0.26,
+   "n": 1,
+   "last": 0.32
+  },
+  "typescript": {
+   "mastery": 0.245,
+   "n": 1,
+   "last": 0.29
+  },
+  "distributed systems": {
+   "mastery": 0.2,
+   "n": 0,
+   "last": null
+  },
+  "llm": {
+   "mastery": 0.4,
+   "n": 0,
+   "last": null
+  },
+  "evaluation": {
+   "mastery": 0.2,
+   "n": 0,
+   "last": null
+  },
+  "agents": {
+   "mastery": 0.2,
+   "n": 0,
+   "last": null
+  },
+  "testing": {
+   "mastery": 0.5,
+   "n": 0,
+   "last": null
+  },
+  "machine learning": {
+   "mastery": 0.5,
+   "n": 0,
+   "last": null
+  },
+  "system design": {
+   "mastery": 0.2,
+   "n": 0,
+   "last": null
+  }
+ },
+ "startReadiness": {
+  "score": 35,
+  "coverage": 0,
+  "level": "Early"
+ },
+ "items": [
+  {
+   "skill": "aws",
+   "type": "concept",
+   "difficulty": "foundational",
+   "question": "You're deploying a small agent backend on AWS that calls an LLM API, stores user session data, and must read an API key. Explain how IAM roles (attached to the compute, e.g. a Lambda function or EC2 instance) differ from embedding long-lived access keys in the code or environment, and why the principle of least privilege matters here. Then describe one tradeoff between running this backend on AWS Lambda versus a long-running container/EC2 instance for an agent that may take several minutes per request.",
+   "rubric": [
+    {
+     "criterion": "Explains that an IAM role gives the compute temporary, automatically rotated credentials (via STS) so no secrets are stored in code, whereas long-lived access keys can leak, persist, and require manual rotation.",
+     "weight": 0.30000000000000004
+    },
+    {
+     "criterion": "Explains least privilege: scoping the role's policy to only the specific actions and resources needed (e.g. read one secret, read/write one table or bucket) to limit blast radius if the compute or code is compromised.",
+     "weight": 0.30000000000000004
+    },
+    {
+     "criterion": "Identifies a concrete Lambda vs container/EC2 tradeoff relevant to long-running agents, such as Lambda's 15-minute timeout and cold starts versus pay-per-invocation scaling and no server management, against always-on cost and ops burden for containers/EC2.",
+     "weight": 0.30000000000000004
+    },
+    {
+     "criterion": "Mentions an appropriate place for the API key (e.g. Secrets Manager or SSM Parameter Store accessed via the role) rather than hardcoding it.",
+     "weight": 0.10000000000000002
+    }
+   ],
+   "model_answer": "An IAM role attached to the Lambda or instance gives it short-lived credentials issued by STS and rotated automatically, so nothing secret is committed or stored in env vars, unlike long-lived access keys that can leak and must be rotated manually. Least privilege means the role's policy allows only the needed actions on specific resources (e.g. secretsmanager:GetSecretValue on one secret and access to one table), which limits damage if the code is compromised. The LLM API key should live in Secrets Manager or SSM Parameter Store and be fetched using the role. Lambda scales to zero and needs no server management but has a 15-minute max timeout and cold starts, so multi-minute agent runs may hit limits; a container or EC2 handles long runs and persistent connections but costs money while idle and adds operational overhead.",
+   "answers": [
+    {
+     "prompt": "You're deploying a small agent backend on AWS that calls an LLM API, stores user session data, and must read an API key. Explain how IAM roles (attached to the compute, e.g. a Lambda function or EC2 instance) differ from embedding long-lived access keys in the code or environment, and why the principle of least privilege matters here. Then describe one tradeoff between running this backend on AWS Lambda versus a long-running container/EC2 instance for an agent that may take several minutes per request.",
+     "answer": "I think IAR roles are kind of like keys that AWS hands to your Lambda or EC2 automatically, so you don't have to hardcode a password, and least privilege means giving the app just enough access so it doesn't break. For the tradeoff, Lambda is cheaper and easier to set up, but I think it has a time limit so a multi-minute agent might get cut off, while a container or EC2 box can just keep running.",
+     "score": 0.45,
+     "criteria": [
+      {
+       "criterion": "Explains that an IAM role gives the compute temporary, automatically rotated credentials (via STS) so no secrets are stored in code, whereas long-lived access keys can leak, persist, and require manual rotation.",
+       "weight": 0.30000000000000004,
+       "met": 0.5,
+       "evidence": "IAR roles are kind of like keys that AWS hands to your Lambda or EC2 automatically, so you don't have to hardcode a password",
+       "credit_removed": false
+      },
+      {
+       "criterion": "Explains least privilege: scoping the role's policy to only the specific actions and resources needed (e.g. read one secret, read/write one table or bucket) to limit blast radius if the compute or code is compromised.",
+       "weight": 0.30000000000000004,
+       "met": 0.5,
+       "evidence": "least privilege means giving the app just enough access so it doesn't break",
+       "credit_removed": false
+      },
+      {
+       "criterion": "Identifies a concrete Lambda vs container/EC2 tradeoff relevant to long-running agents, such as Lambda's 15-minute timeout and cold starts versus pay-per-invocation scaling and no server management, against always-on cost and ops burden for containers/EC2.",
+       "weight": 0.30000000000000004,
+       "met": 0.5,
+       "evidence": "Lambda is cheaper and easier to set up, but I think it has a time limit so a multi-minute agent might get cut off, while a container or EC2 box can just keep running.",
+       "credit_removed": false
+      },
+      {
+       "criterion": "Mentions an appropriate place for the API key (e.g. Secrets Manager or SSM Parameter Store accessed via the role) rather than hardcoding it.",
+       "weight": 0.10000000000000002,
+       "met": 0,
+       "evidence": "",
+       "credit_removed": false
+      }
+     ],
+     "feedback": "You correctly captured that roles supply credentials automatically so nothing is hardcoded, that least privilege means limited access, and that Lambda's time limit can cut off long agent runs. Missing: that role credentials are temporary and rotated via STS (versus long-lived keys that leak and need manual rotation), that least privilege limits blast radius by scoping to specific actions and resources, the 15-minute figure and cold starts, the idle-cost/ops burden of EC2, and where the API key should live (Secrets Manager or SSM Parameter Store).",
+     "misconception": "Least privilege is framed as 'just enough so it doesn't break' rather than as restricting to specific actions and resources to limit damage if compromised; roles are also described as 'keys' without noting they are temporary.",
+     "follow_up": "Suppose an attacker exploits a bug in your agent code and runs commands with the role's credentials. How would the policy you wrote determine how bad that is, and what would a well-scoped policy for this backend look like?",
+     "follow_up_rubric": [
+      {
+       "criterion": "Explains that the attacker inherits only the role's permissions, so the policy bounds the blast radius",
+       "weight": 0.35
+      },
+      {
+       "criterion": "Gives a concrete scoped policy: specific actions on specific resources (e.g. secretsmanager:GetSecretValue on one secret ARN, GetItem/PutItem on one DynamoDB table) rather than wildcards",
+       "weight": 0.4
+      },
+      {
+       "criterion": "Notes that role credentials are temporary (STS), limiting how long stolen credentials are usable, or that the API key is held in Secrets Manager/SSM",
+       "weight": 0.25
+      }
+     ],
+     "follow_up_answer": "The attacker can do only what the role's policy allows, so a role limited to GetSecretValue on one secret and read/write on one DynamoDB table confines damage to those resources, whereas '*' permissions would expose the whole account. Since role credentials are short-lived STS tokens, stolen ones also expire quickly."
+    },
+    {
+     "prompt": "Suppose an attacker exploits a bug in your agent code and runs commands with the role's credentials. How would the policy you wrote determine how bad that is, and what would a well-scoped policy for this backend look like?",
+     "answer": "It's, like, if someone hacks the agent and uses its login stuff, the policy would kinda decide how much they can mess with. I think you'd want to give it only the permissions it actually needs, like read-only where possible, and maybe limit which commands or tables it can touch, but I'm not totally sure about the specifics.",
+     "score": 0.175,
+     "criteria": [
+      {
+       "criterion": "Explains that the attacker inherits only the role's permissions, so the policy bounds the blast radius",
+       "weight": 0.35,
+       "met": 0.5,
+       "evidence": "the policy would kinda decide how much they can mess with",
+       "credit_removed": false
+      },
+      {
+       "criterion": "Gives a concrete scoped policy: specific actions on specific resources (e.g. secretsmanager:GetSecretValue on one secret ARN, GetItem/PutItem on one DynamoDB table) rather than wildcards",
+       "weight": 0.4,
+       "met": 0,
+       "evidence": "",
+       "credit_removed": false
+      },
+      {
+       "criterion": "Notes that role credentials are temporary (STS), limiting how long stolen credentials are usable, or that the API key is held in Secrets Manager/SSM",
+       "weight": 0.25,
+       "met": 0,
+       "evidence": "",
+       "credit_removed": false
+      }
+     ],
+     "feedback": "You correctly sense that the policy limits what an attacker can do and that least privilege (only needed permissions, read-only where possible) is the right principle. However, the answer stays vague: it names no actions or resource ARNs, and it never mentions that role credentials are temporary STS tokens or that the API key lives in Secrets Manager/SSM. It also confuses 'commands' with IAM actions, since policies restrict API actions on resources, not shell commands.",
+     "misconception": "Suggests the policy can limit which 'commands' the attacker can run; IAM policies restrict AWS API actions on resources, not arbitrary shell commands, and the attacker's code execution itself is not constrained by the policy.",
+     "follow_up": "Write out the concrete statements of a policy for a backend that reads one API key from Secrets Manager and stores records in one DynamoDB table. Which actions and which resources would you list, and why not use a wildcard?",
+     "follow_up_rubric": [
+      {
+       "criterion": "Names specific actions such as secretsmanager:GetSecretValue and dynamodb:GetItem/PutItem (or similar minimal set) rather than service-wide wildcards",
+       "weight": 0.4
+      },
+      {
+       "criterion": "Scopes each action to specific resource ARNs (one secret ARN, one table ARN) instead of '*'",
+       "weight": 0.35
+      },
+      {
+       "criterion": "Explains that a wildcard would let an attacker reach other secrets/tables or the whole account, enlarging blast radius",
+       "weight": 0.25
+      }
+     ],
+     "follow_up_answer": "Allow secretsmanager:GetSecretValue on the single secret's ARN and dynamodb:GetItem/PutItem on the single table's ARN, nothing else. Wildcards would let a compromised agent read every secret or table in the account, so exact ARNs keep the damage confined."
+    }
+   ],
+   "score": 0.34,
+   "feedback": "You correctly sense that the policy limits what an attacker can do and that least privilege (only needed permissions, read-only where possible) is the right principle. However, the answer stays vague: it names no actions or resource ARNs, and it never mentions that role credentials are temporary STS tokens or that the API key lives in Secrets Manager/SSM. It also confuses 'commands' with IAM actions, since policies restrict API actions on resources, not shell commands.",
+   "misconception": "Least privilege is framed as 'just enough so it doesn't break' rather than as restricting to specific actions and resources to limit damage if compromised; roles are also described as 'keys' without noting they are temporary."
+  },
+  {
+   "skill": "data structures and algorithms",
+   "type": "coding",
+   "difficulty": "foundational",
+   "question": "Coding: You are matching tasks to contributors. Write a Python function `top_k(scores, k)` that takes a dict mapping contributor_id to a quality score (float) and returns the ids of the k highest-scoring contributors, best first. Example: top_k({'a': 0.7, 'b': 0.9, 'c': 0.4, 'd': 0.8}, 2) should return ['b', 'd']. Then state the time complexity of your approach in terms of n (number of contributors) and k, and explain in one or two sentences when you would choose a heap over sorting the whole dict (for instance with 100,000 contributors and k=10, versus k close to n).",
+   "rubric": [
+    {
+     "criterion": "Provides a correct function (e.g., sorted(scores, key=scores.get, reverse=True)[:k] or heapq.nlargest(k, scores, key=scores.get)) that returns ['b', 'd'] for the example, ordered best first.",
+     "weight": 0.4
+    },
+    {
+     "criterion": "States correct time complexity for the approach chosen: O(n log n) for full sort, or O(n log k) for a size-k heap / heapq.nlargest.",
+     "weight": 0.25
+    },
+    {
+     "criterion": "Explains that a heap of size k is preferable when k is much smaller than n because it avoids sorting everything (O(n log k) vs O(n log n)) and uses O(k) extra memory.",
+     "weight": 0.2
+    },
+    {
+     "criterion": "Notes that when k is close to n the heap's advantage disappears and a simple sort is equally good or simpler, or mentions handling edge cases such as k > n or ties.",
+     "weight": 0.15
+    }
+   ],
+   "model_answer": "Use heapq.nlargest(k, scores, key=scores.get), or sort the keys by score descending and slice [:k]; both return ['b', 'd'] for the example. Full sorting is O(n log n), while a size-k min-heap is O(n log k) with O(k) memory. With 100,000 contributors and k=10, the heap does far less work than sorting everything. When k approaches n, log k approaches log n, so the heap gives no benefit and a plain sort is simpler.",
+   "answers": [
+    {
+     "prompt": "Coding: You are matching tasks to contributors. Write a Python function `top_k(scores, k)` that takes a dict mapping contributor_id to a quality score (float) and returns the ids of the k highest-scoring contributors, best first. Example: top_k({'a': 0.7, 'b': 0.9, 'c': 0.4, 'd': 0.8}, 2) should return ['b', 'd']. Then state the time complexity of your approach in terms of n (number of contributors) and k, and explain in one or two sentences when you would choose a heap over sorting the whole dict (for instance with 100,000 contributors and k=10, versus k close to n).",
+     "answer": "I'd just do `return sorted(scores, key=scores.get, reverse=True)[:k]`, which gives `['b', 'd']` for the example. It's O(n) time since it only loops through the dict once, and I think heaps are better when k is close to n because you don't have to sort everything. Honestly I'm not totally sure about the heap part, but it seemed right.",
+     "score": 0.4,
+     "criteria": [
+      {
+       "criterion": "Provides a correct function (e.g., sorted(scores, key=scores.get, reverse=True)[:k] or heapq.nlargest(k, scores, key=scores.get)) that returns ['b', 'd'] for the example, ordered best first.",
+       "weight": 0.4,
+       "met": 1,
+       "evidence": "`return sorted(scores, key=scores.get, reverse=True)[:k]`, which gives `['b', 'd']` for the example",
+       "credit_removed": false
+      },
+      {
+       "criterion": "States correct time complexity for the approach chosen: O(n log n) for full sort, or O(n log k) for a size-k heap / heapq.nlargest.",
+       "weight": 0.25,
+       "met": 0,
+       "evidence": "",
+       "credit_removed": false
+      },
+      {
+       "criterion": "Explains that a heap of size k is preferable when k is much smaller than n because it avoids sorting everything (O(n log k) vs O(n log n)) and uses O(k) extra memory.",
+       "weight": 0.2,
+       "met": 0,
+       "evidence": "",
+       "credit_removed": false
+      },
+      {
+       "criterion": "Notes that when k is close to n the heap's advantage disappears and a simple sort is equally good or simpler, or mentions handling edge cases such as k > n or ties.",
+       "weight": 0.15,
+       "met": 0,
+       "evidence": "",
+       "credit_removed": false
+      }
+     ],
+     "feedback": "The function is correct and returns ['b', 'd'] in best-first order. However, the complexity is wrong: a full sort is O(n log n), not O(n). The heap reasoning is reversed, since heaps help when k is much smaller than n, not when k is close to n. The answer also omits the O(k) memory point and edge cases such as k > n or ties.",
+     "misconception": "Claims sorting is O(n) because it 'only loops through the dict once', and that heaps are better when k is close to n; in fact sorting is O(n log n) and heaps win when k is much smaller than n.",
+     "follow_up": "Your sorted() call has to order all n contributors. With 100,000 contributors and k=10, how would a size-k min-heap avoid that work, and what would the time complexity be?",
+     "follow_up_rubric": [
+      {
+       "criterion": "Describes keeping a min-heap of at most k items, pushing/replacing the smallest when a better score appears, so the heap never holds more than k elements.",
+       "weight": 0.4
+      },
+      {
+       "criterion": "States time complexity O(n log k) versus O(n log n) for full sorting, and that each element costs at most O(log k).",
+       "weight": 0.3
+      },
+      {
+       "criterion": "Notes O(k) extra memory and that the advantage shrinks as k approaches n, where plain sorting is just as good.",
+       "weight": 0.3
+      }
+     ],
+     "follow_up_answer": "Maintain a min-heap of size k; for each of the n items, push it and pop the smallest if the size exceeds k, costing O(log k) each, so O(n log k) total with O(k) memory. With k=10, log k is about 3 versus about 17 for log n, and when k nears n the gap vanishes so sorting is fine."
+    },
+    {
+     "prompt": "Your sorted() call has to order all n contributors. With 100,000 contributors and k=10, how would a size-k min-heap avoid that work, and what would the time complexity be?",
+     "answer": "Um, so you'd keep a heap of just 10 items instead of sorting all 100,000, and you'd like, um, pop the smallest one each time or something? I think it's O(n log n) still, because heaps are kind of like sorting, maybe.",
+     "score": 0.2,
+     "criteria": [
+      {
+       "criterion": "Describes keeping a min-heap of at most k items, pushing/replacing the smallest when a better score appears, so the heap never holds more than k elements.",
+       "weight": 0.4,
+       "met": 0.5,
+       "evidence": "you'd keep a heap of just 10 items instead of sorting all 100,000, and you'd like, um, pop the smallest one each time or something?",
+       "credit_removed": false
+      },
+      {
+       "criterion": "States time complexity O(n log k) versus O(n log n) for full sorting, and that each element costs at most O(log k).",
+       "weight": 0.3,
+       "met": 0,
+       "evidence": "",
+       "credit_removed": false
+      },
+      {
+       "criterion": "Notes O(k) extra memory and that the advantage shrinks as k approaches n, where plain sorting is just as good.",
+       "weight": 0.3,
+       "met": 0,
+       "evidence": "",
+       "credit_removed": false
+      }
+     ],
+     "feedback": "You correctly identified the core idea of keeping a heap of only 10 items and popping the smallest, though you were tentative and didn't explain when the pop happens or that the heap stays capped at k. You concluded O(n log n), which is wrong: the heap's size is k, so each operation costs O(log k) and the total is O(n log k). Memory use of O(k) and the fact that the benefit fades as k approaches n were not mentioned.",
+     "misconception": "Believing a heap-based approach is still O(n log n) because 'heaps are kind of like sorting', ignoring that the heap size is bounded by k so each push/pop costs O(log k), not O(log n).",
+     "follow_up": "If the heap never holds more than 10 items, how many comparisons does a single push or pop take at most, and how does that change the total cost across 100,000 contributors?",
+     "follow_up_rubric": [
+      {
+       "criterion": "States that each heap operation costs O(log k), about log2(10) ≈ 3 levels, since heap height depends on heap size, not n",
+       "weight": 0.5
+      },
+      {
+       "criterion": "Multiplies by n elements to get O(n log k) total and contrasts it with O(n log n) for full sorting",
+       "weight": 0.5
+      }
+     ],
+     "follow_up_answer": "Heap height is log of its size, so with at most 10 items each push/pop costs O(log 10) ≈ 3 steps. Over 100,000 contributors that's O(n log k), versus roughly 17 steps per element for a full O(n log n) sort."
+    }
+   ],
+   "score": 0.32,
+   "feedback": "You correctly identified the core idea of keeping a heap of only 10 items and popping the smallest, though you were tentative and didn't explain when the pop happens or that the heap stays capped at k. You concluded O(n log n), which is wrong: the heap's size is k, so each operation costs O(log k) and the total is O(n log k). Memory use of O(k) and the fact that the benefit fades as k approaches n were not mentioned.",
+   "misconception": "Claims sorting is O(n) because it 'only loops through the dict once', and that heaps are better when k is close to n; in fact sorting is O(n log n) and heaps win when k is much smaller than n."
+  },
+  {
+   "skill": "typescript",
+   "type": "scenario",
+   "difficulty": "foundational",
+   "question": "Scenario: You're the first engineer at a two-person startup building an agent that calls an LLM and returns structured JSON (e.g. {\"action\": \"refund\" | \"escalate\", \"amount\": number}) to a React frontend. A teammate proposes writing the backend in TypeScript, but says: 'Since we declared a TypeScript interface for the LLM's response, we're type-safe and don't need any runtime validation.' Another teammate would rather stay in plain JavaScript to move faster. Decide what you would do and give your reasons. In your answer, explain what TypeScript's types do and do not guarantee at runtime, and say how you would handle the LLM's output.",
+   "rubric": [
+    {
+     "criterion": "States that TypeScript types are erased at compile time and provide no runtime guarantees, so an interface alone does not ensure the LLM's JSON matches the expected shape.",
+     "weight": 0.4000000000000001
+    },
+    {
+     "criterion": "Proposes validating LLM output at runtime (e.g. with a schema library such as zod, or manual checks/JSON schema), handling failures via retry, fallback, or rejection, and ideally deriving the static type from the schema.",
+     "weight": 0.30000000000000004
+    },
+    {
+     "criterion": "Makes a clear decision (e.g. use TypeScript) and justifies it with concrete benefits such as shared types between backend and React frontend, compile-time catching of typos/refactoring errors, and better editor tooling, while acknowledging the modest speed cost.",
+     "weight": 0.20000000000000004
+    },
+    {
+     "criterion": "Mentions a relevant detail such as literal union types for the action field, or the danger of `any`/type assertions (`as`) bypassing checks on untrusted data.",
+     "weight": 0.10000000000000002
+    }
+   ],
+   "model_answer": "I would choose TypeScript, but not rely on the interface for safety: types are erased at compile time, so the LLM's JSON could still have a wrong action or a string amount at runtime. I would parse the output with a runtime schema (e.g. zod) using a literal union for action, derive the TS type from that schema, and on failure retry or escalate to a human instead of using the data. TypeScript is still worth it because types can be shared between backend and React frontend and catch typos and refactor errors early, at a small cost in setup speed. I would avoid `any` and `as` casts on LLM output since they silence the compiler without checking anything.",
+   "answers": [
+    {
+     "prompt": "Scenario: You're the first engineer at a two-person startup building an agent that calls an LLM and returns structured JSON (e.g. {\"action\": \"refund\" | \"escalate\", \"amount\": number}) to a React frontend. A teammate proposes writing the backend in TypeScript, but says: 'Since we declared a TypeScript interface for the LLM's response, we're type-safe and don't need any runtime validation.' Another teammate would rather stay in plain JavaScript to move faster. Decide what you would do and give your reasons. In your answer, explain what TypeScript's types do and do not guarantee at runtime, and say how you would handle the LLM's output.",
+     "answer": "I'd probably go with plain JavaScript since it's faster and we're only two people, and the TypeScript interface should mean the LLM's JSON gets checked against it automatically. The types get compiled away, so I don't think they matter much at runtime, but if the model follows the format it should be fine. If it sends something weird, I'd just add an if statement or two to catch it.",
+     "score": 0.35,
+     "criteria": [
+      {
+       "criterion": "States that TypeScript types are erased at compile time and provide no runtime guarantees, so an interface alone does not ensure the LLM's JSON matches the expected shape.",
+       "weight": 0.4000000000000001,
+       "met": 0.5,
+       "evidence": "The types get compiled away, so I don't think they matter much at runtime",
+       "credit_removed": false
+      },
+      {
+       "criterion": "Proposes validating LLM output at runtime (e.g. with a schema library such as zod, or manual checks/JSON schema), handling failures via retry, fallback, or rejection, and ideally deriving the static type from the schema.",
+       "weight": 0.30000000000000004,
+       "met": 0.5,
+       "evidence": "If it sends something weird, I'd just add an if statement or two to catch it.",
+       "credit_removed": false
+      },
+      {
+       "criterion": "Makes a clear decision (e.g. use TypeScript) and justifies it with concrete benefits such as shared types between backend and React frontend, compile-time catching of typos/refactoring errors, and better editor tooling, while acknowledging the modest speed cost.",
+       "weight": 0.20000000000000004,
+       "met": 0,
+       "evidence": "",
+       "credit_removed": false
+      },
+      {
+       "criterion": "Mentions a relevant detail such as literal union types for the action field, or the danger of `any`/type assertions (`as`) bypassing checks on untrusted data.",
+       "weight": 0.10000000000000002,
+       "met": 0,
+       "evidence": "",
+       "credit_removed": false
+      }
+     ],
+     "feedback": "You correctly noted that types are compiled away, and you proposed some manual checks for odd output. But the answer contradicts itself: it says the interface should mean the JSON gets checked automatically, which is exactly the misconception, since erased types check nothing. It also lacks a schema-based validation plan, any handling of failures (retry, escalate, reject), and concrete reasons for the language choice, such as shared types with the React frontend, or details like literal unions and the risk of `as` and `any`.",
+     "misconception": "That declaring a TypeScript interface means the LLM's JSON is automatically checked against it, and that trusting the model to follow the format is enough.",
+     "follow_up": "You said a couple of if statements would catch weird output. The model returns {\"action\": \"refund\", \"amount\": \"50\"} and your code does amount * 1.1 before issuing the refund. What happens, and how would your checks and your language choice help or fail to help here?",
+     "follow_up_rubric": [
+      {
+       "criterion": "Identifies that the amount is a string at runtime, so arithmetic or downstream handling misbehaves (coercion, NaN, or wrong payment) without any error being raised.",
+       "weight": 0.4
+      },
+      {
+       "criterion": "Explains that a TS interface or `as` cast would not catch this because types are erased, so a runtime check (typeof, or a schema library like zod) on untrusted data is required.",
+       "weight": 0.35
+      },
+      {
+       "criterion": "Describes what to do on failure (retry the LLM, reject, or escalate to a human) rather than proceeding with bad data.",
+       "weight": 0.25
+      }
+     ],
+     "follow_up_answer": "amount * 1.1 would coerce the string to 55.00000000000001 or yield NaN for non-numeric strings, so a wrong or invalid refund could go through silently. Only a runtime check, such as a zod schema requiring a number, would catch it, and a failed parse should trigger a retry or escalation to a human."
+    },
+    {
+     "prompt": "You said a couple of if statements would catch weird output. The model returns {\"action\": \"refund\", \"amount\": \"50\"} and your code does amount * 1.1 before issuing the refund. What happens, and how would your checks and your language choice help or fail to help here?",
+     "answer": "Um, I think it would just multiply and come out to like 55, so the refund goes out a bit higher, which is bad I guess. My if statements check if the amount is a number, so they'd probably catch it and stop, though I'm not totally sure how they'd do that. Python is pretty forgiving with types, so I think it converts the string automatically, which is why I picked it.",
+     "score": 0.2,
+     "criteria": [
+      {
+       "criterion": "Identifies that the amount is a string at runtime, so arithmetic or downstream handling misbehaves (coercion, NaN, or wrong payment) without any error being raised.",
+       "weight": 0.4,
+       "met": 0.5,
+       "evidence": "it would just multiply and come out to like 55, so the refund goes out a bit higher, which is bad I guess",
+       "credit_removed": false
+      },
+      {
+       "criterion": "Explains that a TS interface or `as` cast would not catch this because types are erased, so a runtime check (typeof, or a schema library like zod) on untrusted data is required.",
+       "weight": 0.35,
+       "met": 0,
+       "evidence": "",
+       "credit_removed": false
+      },
+      {
+       "criterion": "Describes what to do on failure (retry the LLM, reject, or escalate to a human) rather than proceeding with bad data.",
+       "weight": 0.25,
+       "met": 0,
+       "evidence": "",
+       "credit_removed": false
+      }
+     ],
+     "feedback": "You correctly sensed that the wrong refund could go out silently, but you didn't identify the root cause: the amount arrives as a string, and coercion produces a bad value without raising an error. You were unsure how your if statements would catch this, and you didn't explain that types are erased at runtime, so a typeof check or a zod schema is needed. You also didn't say what to do on failure, such as retrying the model or escalating to a human. The language reasoning is muddled: the question is about TypeScript, where a string times a number coerces to a number, and Python would actually raise a TypeError on a string times a float.",
+     "misconception": "That a language's lenient type handling is an advantage for validating untrusted LLM output, and that unspecified if statements will catch a string amount. In reality, implicit coercion hides the bug, and static types or casts give no runtime protection.",
+     "follow_up": "You said your if statements check that the amount is a number. Write out exactly what that check would look like, and explain what it would do with the value \"50\" versus 50, and with \"abc\"?",
+     "follow_up_rubric": [
+      {
+       "criterion": "Specifies a concrete runtime check such as typeof amount === 'number' (and ideally Number.isFinite or positivity), or a zod schema, applied to the parsed JSON.",
+       "weight": 0.4
+      },
+      {
+       "criterion": "Correctly states that \"50\" and \"abc\" are both strings and would fail a typeof number check, while 50 passes, and notes that a TS type annotation alone would not do this.",
+       "weight": 0.35
+      },
+      {
+       "criterion": "Says what happens on rejection: retry the LLM, reject the request, or escalate to a human instead of proceeding.",
+       "weight": 0.25
+      }
+     ],
+     "follow_up_answer": "A check like typeof amount === 'number' && Number.isFinite(amount) && amount > 0 (or a zod schema with z.number().positive()) would reject both \"50\" and \"abc\" as strings and accept 50; a TS type or cast wouldn't, since types are erased. On failure, retry the model or escalate to a human rather than issuing the refund."
+    }
+   ],
+   "score": 0.29,
+   "feedback": "You correctly sensed that the wrong refund could go out silently, but you didn't identify the root cause: the amount arrives as a string, and coercion produces a bad value without raising an error. You were unsure how your if statements would catch this, and you didn't explain that types are erased at runtime, so a typeof check or a zod schema is needed. You also didn't say what to do on failure, such as retrying the model or escalating to a human. The language reasoning is muddled: the question is about TypeScript, where a string times a number coerces to a number, and Python would actually raise a TypeError on a string times a float.",
+   "misconception": "That declaring a TypeScript interface means the LLM's JSON is automatically checked against it, and that trusting the model to follow the format is enough."
+  },
+  {
+   "skill": "python",
+   "type": "concept",
+   "difficulty": "intermediate",
+   "question": "In Python, an agent framework runs many LLM calls concurrently. Explain how `asyncio` achieves concurrency with a single thread, and why a single blocking call (such as `time.sleep(5)` or a synchronous `requests.get`) inside an `async def` handler hurts every other in-flight request. Then explain the tradeoff between using `asyncio`, a `ThreadPoolExecutor`, and `multiprocessing` for (a) 200 concurrent LLM API calls and (b) CPU-heavy embedding or feature computation, referring to the GIL in your answer.",
+   "rubric": [
+    {
+     "criterion": "Explains that asyncio uses a single-threaded event loop with cooperative scheduling: coroutines yield control at `await` points, so other tasks run while one waits on I/O.",
+     "weight": 0.3
+    },
+    {
+     "criterion": "Explains that a blocking call never yields to the event loop, so it stalls all other tasks on that loop (latency spikes, timeouts), and names a fix such as an async client (httpx/aiohttp), `asyncio.sleep`, or `run_in_executor`/`asyncio.to_thread`.",
+     "weight": 0.3
+    },
+    {
+     "criterion": "Correctly describes the GIL: only one thread executes Python bytecode at a time, so threads do not speed up CPU-bound pure-Python work but do help with I/O-bound work since the GIL is released while waiting.",
+     "weight": 0.2
+    },
+    {
+     "criterion": "Gives a sound recommendation: asyncio (or threads with a limited pool) for I/O-bound LLM calls, with lower memory and overhead than threads; multiprocessing (or native libraries that release the GIL) for CPU-bound work, noting the cost of process startup and serialization/IPC overhead.",
+     "weight": 0.2
+    }
+   ],
+   "model_answer": "asyncio runs an event loop on one thread; coroutines voluntarily yield at `await`, so while one request waits on network I/O the loop runs others. A blocking call like `time.sleep` or `requests.get` never yields, so the whole loop is frozen and every other request stalls; fix it with `asyncio.sleep`, an async client such as httpx, or `asyncio.to_thread`. For 200 concurrent LLM calls (I/O-bound), asyncio is best because it is cheap per task, and threads also work since the GIL is released during I/O. For CPU-heavy embedding or feature work, the GIL prevents threads from running Python bytecode in parallel, so use multiprocessing (accepting process startup and pickling overhead) or libraries like NumPy/PyTorch that release the GIL.",
+   "answers": [
+    {
+     "prompt": "In Python, an agent framework runs many LLM calls concurrently. Explain how `asyncio` achieves concurrency with a single thread, and why a single blocking call (such as `time.sleep(5)` or a synchronous `requests.get`) inside an `async def` handler hurts every other in-flight request. Then explain the tradeoff between using `asyncio`, a `ThreadPoolExecutor`, and `multiprocessing` for (a) 200 concurrent LLM API calls and (b) CPU-heavy embedding or feature computation, referring to the GIL in your answer.",
+     "answer": "asyncio kind of switches between tasks whenever one is waiting on something, so it's basically one thread juggling a bunch of stuff, and a time.sleep inside an async def would freeze the whole loop. For the 200 API calls I'd probably just use ThreadPoolExecutor since threads are faster than asyncio for that, and for the CPU embedding stuff the GIL is kind of a problem, so maybe multiprocessing or threads, I think they're about the same. Honestly I'd just use threads for both since it's simpler.",
+     "score": 0.3,
+     "criteria": [
+      {
+       "criterion": "Explains that asyncio uses a single-threaded event loop with cooperative scheduling: coroutines yield control at `await` points, so other tasks run while one waits on I/O.",
+       "weight": 0.3,
+       "met": 0.5,
+       "evidence": "it's basically one thread juggling a bunch of stuff",
+       "credit_removed": false
+      },
+      {
+       "criterion": "Explains that a blocking call never yields to the event loop, so it stalls all other tasks on that loop (latency spikes, timeouts), and names a fix such as an async client (httpx/aiohttp), `asyncio.sleep`, or `run_in_executor`/`asyncio.to_thread`.",
+       "weight": 0.3,
+       "met": 0.5,
+       "evidence": "a time.sleep inside an async def would freeze the whole loop",
+       "credit_removed": false
+      },
+      {
+       "criterion": "Correctly describes the GIL: only one thread executes Python bytecode at a time, so threads do not speed up CPU-bound pure-Python work but do help with I/O-bound work since the GIL is released while waiting.",
+       "weight": 0.2,
+       "met": 0,
+       "evidence": "",
+       "credit_removed": false
+      },
+      {
+       "criterion": "Gives a sound recommendation: asyncio (or threads with a limited pool) for I/O-bound LLM calls, with lower memory and overhead than threads; multiprocessing (or native libraries that release the GIL) for CPU-bound work, noting the cost of process startup and serialization/IPC overhead.",
+       "weight": 0.2,
+       "met": 0,
+       "evidence": "",
+       "credit_removed": false
+      }
+     ],
+     "feedback": "You correctly noted that asyncio is single-threaded, switches tasks while one waits, and that time.sleep in an async def freezes the loop. However, you didn't explain await/cooperative scheduling or name a fix (asyncio.sleep, httpx, to_thread). Your GIL treatment is missing, and the recommendations are wrong: threads are not faster than asyncio for I/O, and threads don't help CPU-bound Python work, so multiprocessing is needed there.",
+     "misconception": "Believes threads are faster than asyncio for many I/O calls, and that threads and multiprocessing are roughly equivalent for CPU-bound work, ignoring that the GIL prevents parallel bytecode execution in threads.",
+     "follow_up": "You said threads and multiprocessing are about the same for CPU-heavy embedding work. If you ran 8 threads on an 8-core machine computing a pure-Python feature function, what speedup would you expect and why?",
+     "follow_up_rubric": [
+      {
+       "criterion": "States that there would be little or no speedup (possibly slower) for pure-Python CPU-bound work with threads",
+       "weight": 0.4
+      },
+      {
+       "criterion": "Explains the GIL: only one thread executes Python bytecode at a time, so threads can't run in parallel on multiple cores",
+       "weight": 0.4
+      },
+      {
+       "criterion": "Names multiprocessing (or GIL-releasing native libraries like NumPy/PyTorch) as the fix, optionally noting pickling/startup overhead",
+       "weight": 0.2
+      }
+     ],
+     "follow_up_answer": "Roughly no speedup, possibly slower from contention, because the GIL lets only one thread run Python bytecode at a time. Multiprocessing gives each process its own interpreter and GIL so it uses all cores, at the cost of startup and serialization overhead."
+    },
+    {
+     "prompt": "You said threads and multiprocessing are about the same for CPU-heavy embedding work. If you ran 8 threads on an 8-core machine computing a pure-Python feature function, what speedup would you expect and why?",
+     "answer": "I think you'd get close to 8x since it's 8 cores doing the work at the same time, so threads should basically split the job evenly. Python's GIL might slow things down a bit, but I'm not really sure how much.",
+     "score": 0,
+     "criteria": [
+      {
+       "criterion": "States that there would be little or no speedup (possibly slower) for pure-Python CPU-bound work with threads",
+       "weight": 0.4,
+       "met": 0,
+       "evidence": "",
+       "credit_removed": false
+      },
+      {
+       "criterion": "Explains the GIL: only one thread executes Python bytecode at a time, so threads can't run in parallel on multiple cores",
+       "weight": 0.4,
+       "met": 0,
+       "evidence": "",
+       "credit_removed": false
+      },
+      {
+       "criterion": "Names multiprocessing (or GIL-releasing native libraries like NumPy/PyTorch) as the fix, optionally noting pickling/startup overhead",
+       "weight": 0.2,
+       "met": 0,
+       "evidence": "",
+       "credit_removed": false
+      }
+     ],
+     "feedback": "The answer expects near 8x speedup, which is the opposite of what happens for pure-Python CPU-bound code under the GIL. It does mention the GIL, but only as a minor slowdown and with admitted uncertainty, and it never explains that only one thread runs bytecode at a time. It also doesn't name multiprocessing or GIL-releasing libraries as the fix.",
+     "misconception": "Believes threads on 8 cores give near-linear speedup for CPU-bound pure-Python code, treating the GIL as a small overhead rather than a serialization of bytecode execution.",
+     "follow_up": "In CPython, what does the GIL actually prevent, and given that, why would 8 threads running a pure-Python loop on 8 cores not finish about 8 times faster than one thread?",
+     "follow_up_rubric": [
+      {
+       "criterion": "States that the GIL allows only one thread to execute Python bytecode at a time within a process",
+       "weight": 0.4
+      },
+      {
+       "criterion": "Concludes that CPU-bound pure-Python threads therefore get roughly no speedup (possibly slower due to contention/switching), despite multiple cores",
+       "weight": 0.35
+      },
+      {
+       "criterion": "Names multiprocessing (separate interpreters/GIL per process) or GIL-releasing native libraries as the way to use multiple cores",
+       "weight": 0.25
+      }
+     ],
+     "follow_up_answer": "The GIL lets only one thread execute Python bytecode at a time, so the 8 threads take turns on effectively one core and you get about 1x speedup, sometimes worse from lock contention. To use all cores you'd use multiprocessing, where each process has its own interpreter and GIL, or native libraries that release the GIL."
+    }
+   ],
+   "score": 0.18,
+   "feedback": "The answer expects near 8x speedup, which is the opposite of what happens for pure-Python CPU-bound code under the GIL. It does mention the GIL, but only as a minor slowdown and with admitted uncertainty, and it never explains that only one thread runs bytecode at a time. It also doesn't name multiprocessing or GIL-releasing libraries as the fix.",
+   "misconception": "Believes threads are faster than asyncio for many I/O calls, and that threads and multiprocessing are roughly equivalent for CPU-bound work, ignoring that the GIL prevents parallel bytecode execution in threads."
+  }
+ ],
+ "current": null,
+ "report": {
+  "readiness": {
+   "score": 33,
+   "coverage": 48,
+   "level": "Early"
+  },
+  "start_readiness": {
+   "score": 35,
+   "coverage": 0,
+   "level": "Early"
+  },
+  "strengths": [],
+  "gaps": [
+   {
+    "skill": "python",
+    "mastery": 0.39,
+    "demand": 0.84,
+    "assessed": true
+   },
+   {
+    "skill": "data structures and algorithms",
+    "mastery": 0.26,
+    "demand": 0.52,
+    "assessed": true
+   },
+   {
+    "skill": "aws",
+    "mastery": 0.27,
+    "demand": 0.52,
+    "assessed": true
+   },
+   {
+    "skill": "typescript",
+    "mastery": 0.245,
+    "demand": 0.48,
+    "assessed": true
+   },
+   {
+    "skill": "distributed systems",
+    "mastery": 0.2,
+    "demand": 0.4,
+    "assessed": false
+   }
+  ],
+  "skills": [
+   {
+    "skill": "python",
+    "demand": 0.84,
+    "mastery": 0.39,
+    "n": 1,
+    "last": 0.18
+   },
+   {
+    "skill": "aws",
+    "demand": 0.52,
+    "mastery": 0.27,
+    "n": 1,
+    "last": 0.34
+   },
+   {
+    "skill": "rest apis",
+    "demand": 0.52,
+    "mastery": 0.5,
+    "n": 0,
+    "last": null
+   },
+   {
+    "skill": "data structures and algorithms",
+    "demand": 0.52,
+    "mastery": 0.26,
+    "n": 1,
+    "last": 0.32
+   },
+   {
+    "skill": "typescript",
+    "demand": 0.48,
+    "mastery": 0.245,
+    "n": 1,
+    "last": 0.29
+   },
+   {
+    "skill": "distributed systems",
+    "demand": 0.4,
+    "mastery": 0.2,
+    "n": 0,
+    "last": null
+   },
+   {
+    "skill": "llm",
+    "demand": 0.36,
+    "mastery": 0.4,
+    "n": 0,
+    "last": null
+   },
+   {
+    "skill": "evaluation",
+    "demand": 0.32,
+    "mastery": 0.2,
+    "n": 0,
+    "last": null
+   },
+   {
+    "skill": "agents",
+    "demand": 0.28,
+    "mastery": 0.2,
+    "n": 0,
+    "last": null
+   },
+   {
+    "skill": "testing",
+    "demand": 0.28,
+    "mastery": 0.5,
+    "n": 0,
+    "last": null
+   },
+   {
+    "skill": "machine learning",
+    "demand": 0.24,
+    "mastery": 0.5,
+    "n": 0,
+    "last": null
+   },
+   {
+    "skill": "system design",
+    "demand": 0.16,
+    "mastery": 0.2,
+    "n": 0,
+    "last": null
+   }
+  ],
+  "narrative": "generated",
+  "summary": "You are at an Early readiness level with a score of 33 and 48% coverage, slightly below your starting score of 35, with no skills yet at strength level. Your biggest gap is Python (39% mastery against 84% demand), where your session answer showed the GIL misunderstanding, followed by gaps in data structures and algorithms, AWS, and TypeScript.",
+  "actions": [
+   {
+    "skill": "python",
+    "action": "Write a CPU-bound function (e.g. counting primes) and benchmark it with 1, 4, and 8 threads using ThreadPoolExecutor versus ProcessPoolExecutor. Write a short note explaining the GIL result and why multiprocessing or GIL-releasing libraries fix it.",
+    "resource_url": "https://docs.python.org/3/tutorial/",
+    "due_in_days": 7
+   },
+   {
+    "skill": "data structures and algorithms",
+    "action": "Solve 'Kth Largest Element in a Stream' and 'Top K Frequent Elements' using a size-k min-heap. For each, write the time complexity as O(n log k) and space as O(k), and note when the benefit fades as k approaches n.",
+    "resource_url": "https://neetcode.io/roadmap",
+    "due_in_days": 7
+   },
+   {
+    "skill": "aws",
+    "action": "Create an IAM role for a Lambda that can only call secretsmanager:GetSecretValue on one specific secret ARN. Store a dummy API key in Secrets Manager, read it from the function, and note that the role issues temporary STS credentials.",
+    "resource_url": "https://skillbuilder.aws/",
+    "due_in_days": 7
+   },
+   {
+    "skill": "typescript",
+    "action": "Build a small refund handler that receives an LLM tool-call JSON with the amount as a string. Validate it with a zod schema, and on failure retry the model once and then escalate to a human. Add tests showing that a bad string is rejected rather than coerced.",
+    "resource_url": "https://www.typescriptlang.org/docs/handbook/intro.html",
+    "due_in_days": 7
+   }
+  ],
+  "next_milestone": "Ship a small, deployed agent project (e.g. a tool-calling support agent with validated inputs, least-privilege AWS access, and a ranked recommendation step) and re-take the assessment aiming for a score of 50 or higher."
+ },
+ "finishedAt": "2026-11-02T01:14:24.777Z"
+}

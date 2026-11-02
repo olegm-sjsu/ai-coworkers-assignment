@@ -1,0 +1,351 @@
+[
+ {
+  "date": "2026-10-26",
+  "session_minutes": 18,
+  "eligible": 208,
+  "selected": [
+   {
+    "title": "Context Engineering (Agent Memory) for AI Agents Starts with Retrieval",
+    "source": "LangChain",
+    "published": "2026-10-26T15:32:16+00:00",
+    "url": "https://www.langchain.com/blog/context-engineering-starts-with-retrieval",
+    "read_minutes": 10,
+    "score": 0.9799,
+    "matched_terms": [
+     "retrieval",
+     "agent memory",
+     "memory",
+     "ai agents",
+     "engineering"
+    ]
+   },
+   {
+    "title": "Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models on Amazon Bedrock",
+    "source": "AWS Machine Learning",
+    "published": "2026-10-26T17:27:20+00:00",
+    "url": "https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock/",
+    "read_minutes": 15,
+    "score": 0.612,
+    "matched_terms": [
+     "prompt",
+     "ai agents",
+     "agent",
+     "agents",
+     "ai"
+    ]
+   },
+   {
+    "title": "The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do",
+    "source": "Meta Engineering",
+    "published": "2026-10-19T15:30:37+00:00",
+    "url": "https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/",
+    "read_minutes": 7,
+    "score": 0.5049,
+    "matched_terms": [
+     "ai agents",
+     "orchestration",
+     "agents",
+     "ai",
+     "engineering"
+    ]
+   }
+  ]
+ },
+ {
+  "date": "2026-10-27",
+  "session_minutes": 18,
+  "eligible": 223,
+  "selected": [
+   {
+    "title": "Build agentic retrieval on a Managed Amazon Bedrock Knowledge Base with CDK",
+    "source": "AWS Machine Learning",
+    "published": "2026-10-26T17:15:14+00:00",
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-agentic-retrieval-on-a-managed-amazon-bedrock-knowledge-base-with-cdk/",
+    "read_minutes": 25,
+    "score": 0.7487,
+    "matched_terms": [
+     "retrieval",
+     "evaluation",
+     "agent"
+    ]
+   },
+   {
+    "title": "How AI agents shape experts\u2019 judgment calls",
+    "source": "Anthropic",
+    "published": "2026-10-27T12:00:00+00:00",
+    "url": "https://www.anthropic.com/research/agents-judgment-calls",
+    "read_minutes": 14,
+    "score": 0.6702,
+    "matched_terms": [
+     "ai agents",
+     "agents",
+     "ai"
+    ]
+   },
+   {
+    "title": "Building Production Agents with Jev and LangGraph",
+    "source": "LangChain",
+    "published": "2026-09-28T11:45:35+00:00",
+    "url": "https://www.langchain.com/blog/building-prod-with-jev-and-langgraph",
+    "read_minutes": 7,
+    "score": 0.6082,
+    "matched_terms": [
+     "langgraph",
+     "agents",
+     "model",
+     "ai"
+    ]
+   }
+  ]
+ },
+ {
+  "date": "2026-10-28",
+  "session_minutes": 18,
+  "eligible": 239,
+  "selected": [
+   {
+    "title": "How to build evidence-grounded agent memory with OpenWiki and Graphs",
+    "source": "LangChain",
+    "published": "2026-10-28T17:28:42+00:00",
+    "url": "https://www.langchain.com/blog/building-agent-memory-openwiki-graphs",
+    "read_minutes": 8,
+    "score": 0.966,
+    "matched_terms": [
+     "agent memory",
+     "memory",
+     "agent",
+     "agents"
+    ]
+   },
+   {
+    "title": "Quantum-Inspired Pairwise Ranking Aggregation via Active LLM Feedback",
+    "source": "arXiv",
+    "published": "2026-10-28T18:55:57Z",
+    "url": "https://arxiv.org/abs/2610.38683v1",
+    "read_minutes": 25,
+    "score": 0.9276,
+    "matched_terms": [
+     "ranking",
+     "llm",
+     "benchmarks",
+     "retrieval",
+     "rag"
+    ]
+   },
+   {
+    "title": "Meta Andromeda: Powering the Next Generation of Ads Retrieval Through Model-System Co-Design",
+    "source": "Meta Engineering",
+    "published": "2026-10-28T16:00:01+00:00",
+    "url": "https://engineering.fb.com/2026/10/28/ml-applications/meta-andromeda-next-gen-ads-retrieval-gpu-co-design/",
+    "read_minutes": 11,
+    "score": 0.8942,
+    "matched_terms": [
+     "retrieval",
+     "generation",
+     "model",
+     "engineering"
+    ]
+   }
+  ]
+ },
+ {
+  "date": "2026-10-29",
+  "session_minutes": 18,
+  "eligible": 277,
+  "selected": [
+   {
+    "title": "From Intent to Improvement: Agentic Dataset Search for Better Model Training",
+    "source": "arXiv",
+    "published": "2026-10-29T08:42:49Z",
+    "url": "https://arxiv.org/abs/2610.39608v1",
+    "read_minutes": 48,
+    "score": 0.9608,
+    "matched_terms": [
+     "model training",
+     "search",
+     "retrieval",
+     "training",
+     "machine learning"
+    ]
+   },
+   {
+    "title": "Building an Agentic AI Platform on Amazon Bedrock AgentCore",
+    "source": "AWS Machine Learning",
+    "published": "2026-10-28T18:28:26+00:00",
+    "url": "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-platform-on-amazon-bedrock-agentcore/",
+    "read_minutes": 11,
+    "score": 0.644,
+    "matched_terms": [
+     "tool",
+     "inference",
+     "evaluation",
+     "ai",
+     "agent"
+    ]
+   },
+   {
+    "title": "Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context",
+    "source": "LangChain",
+    "published": "2026-10-28T19:33:23+00:00",
+    "url": "https://www.langchain.com/blog/context-engineering-deep-agents-remember",
+    "read_minutes": 9,
+    "score": 0.6273,
+    "matched_terms": [
+     "engineering",
+     "memory",
+     "agents",
+     "agent"
+    ]
+   }
+  ]
+ },
+ {
+  "date": "2026-10-30",
+  "session_minutes": 18,
+  "eligible": 276,
+  "selected": [
+   {
+    "title": "Try Before You Evolve: Ranking-Scored Trials for Recursive Self-Improvement of Recommender Systems",
+    "source": "arXiv",
+    "published": "2026-10-29T04:45:19Z",
+    "url": "https://arxiv.org/abs/2610.39352v1",
+    "read_minutes": 50,
+    "score": 0.9409,
+    "matched_terms": [
+     "recommender systems",
+     "recommender",
+     "ranking",
+     "systems",
+     "training"
+    ]
+   },
+   {
+    "title": "How MoEngage turned over 400 APIs into agent tools with AgentCore Gateway",
+    "source": "AWS Machine Learning",
+    "published": "2026-10-29T16:54:52+00:00",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-moengage-turned-over-400-apis-into-agent-tools-with-agentcore-gateway/",
+    "read_minutes": 10,
+    "score": 0.6255,
+    "matched_terms": [
+     "apis",
+     "agent",
+     "tool"
+    ]
+   },
+   {
+    "title": "The Art of Loop Engineering",
+    "source": "LangChain",
+    "published": "2026-10-29T13:20:15+00:00",
+    "url": "https://www.langchain.com/blog/the-art-of-loop-engineering",
+    "read_minutes": 6,
+    "score": 0.5961,
+    "matched_terms": [
+     "engineering",
+     "agents",
+     "agent",
+     "model"
+    ]
+   }
+  ]
+ },
+ {
+  "date": "2026-10-31",
+  "session_minutes": 18,
+  "eligible": 270,
+  "selected": [
+   {
+    "title": "Long-Term Agent Memory through Complementary Curation and Consolidation",
+    "source": "arXiv",
+    "published": "2026-10-29T10:40:18Z",
+    "url": "https://arxiv.org/abs/2610.39790v1",
+    "read_minutes": 17,
+    "score": 0.9021,
+    "matched_terms": [
+     "agent memory",
+     "memory",
+     "agent",
+     "benchmarks",
+     "systems"
+    ]
+   },
+   {
+    "title": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
+    "source": "Microsoft Research",
+    "published": "2026-10-07T16:00:00+00:00",
+    "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/",
+    "read_minutes": 6,
+    "score": 0.5918,
+    "matched_terms": [
+     "training",
+     "agent",
+     "agents",
+     "ai agents",
+     "learning"
+    ]
+   },
+   {
+    "title": "Fix evaluation bias to unlock better models on Amazon Bedrock",
+    "source": "AWS Machine Learning",
+    "published": "2026-10-27T16:53:02+00:00",
+    "url": "https://aws.amazon.com/blogs/machine-learning/fix-evaluation-bias-to-unlock-better-models-on-amazon-bedrock/",
+    "read_minutes": 10,
+    "score": 0.5756,
+    "matched_terms": [
+     "evaluation",
+     "prompt",
+     "model"
+    ]
+   }
+  ]
+ },
+ {
+  "date": "2026-11-01",
+  "session_minutes": 18,
+  "eligible": 263,
+  "selected": [
+   {
+    "title": "A Sequential Decision Framework for Evaluating LLM-Guided Search",
+    "source": "arXiv",
+    "published": "2026-10-29T02:50:13Z",
+    "url": "https://arxiv.org/abs/2610.39231v1",
+    "read_minutes": 42,
+    "score": 0.8345,
+    "matched_terms": [
+     "retrieval",
+     "search",
+     "generation",
+     "ranking",
+     "rag"
+    ]
+   },
+   {
+    "title": "Systems Thinking Is Vital in the Age of AI",
+    "source": "IEEE Spectrum",
+    "published": "2026-10-28T18:00:02+00:00",
+    "url": "https://spectrum.ieee.org/systems-thinking-vital-in-ai",
+    "read_minutes": 6,
+    "score": 0.5497,
+    "matched_terms": [
+     "systems",
+     "engineering",
+     "machine",
+     "tool",
+     "ai"
+    ]
+   },
+   {
+    "title": "llm-d 1.0 hardens open-source AI inference for production",
+    "source": "IBM Research",
+    "published": "2026-10-20T12:00:00+00:00",
+    "url": "https://research.ibm.com/blog/llmd-1-0-is-ready-for-production-inference-serving?utm_medium=rss&utm_source=rss",
+    "read_minutes": 5,
+    "score": 0.5354,
+    "matched_terms": [
+     "inference",
+     "ai",
+     "infrastructure"
+    ]
+   }
+  ]
+ }
+]
