@@ -15,7 +15,7 @@ Each agent has two halves. A **Claude Code skill** does the research, because it
 flowchart LR
     profile[/"profile.json<br/>interests, skills, goals"/]
 
-    subgraph code["Claude Code: research, with web access"]
+    subgraph code["Claude Code (research)"]
         s1["daily-tech-upgrade skill"]
         rank["Fetch 14 feeds, then rank<br/>with TF-IDF and Rocchio"]
         check["Validate brief against<br/>the live pages"]
@@ -25,7 +25,7 @@ flowchart LR
         s2 --> jobs
     end
 
-    subgraph app["Claude artifact: interface and memory"]
+    subgraph app["Claude artifact (app)"]
         db[("Artifact database<br/>briefs, ratings, opportunities,<br/>sessions, skill mastery")]
         reader["Daily brief reader"]
         coach["Career coach<br/>question, grade, follow-up"]
