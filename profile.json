@@ -1,7 +1,6 @@
 {
   "name": "Oleg Mrynskyi",
   "school": "San Jose State University",
-  "assumed": "Inferred from coursework folders (recommender systems, RAG, data mining, enterprise platforms). Edit freely; every agent reads this file.",
   "target_roles": ["AI/ML engineering internship", "Applied AI software engineer (new grad)", "Agentic AI startup founder"],
   "career_goal": "Land an applied AI engineering role building agents and recommender systems, and keep a path open to founding a startup.",
   "interests": {

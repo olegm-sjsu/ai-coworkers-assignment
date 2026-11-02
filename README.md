@@ -144,7 +144,7 @@ Sessions asked 12 distinct questions, and all 12 plan links were valid.
    git clone https://github.com/olegm-sjsu/ai-coworkers-assignment.git
    cd ai-coworkers-assignment
    ```
-2. **Make the profile yours.** Edit [`profile.json`](profile.json). Both agents read it. The values here were inferred from coursework, so replace them with your own interests, skills, and goals.
+2. **Make the profile yours.** Edit [`profile.json`](profile.json). Both agents read it, so replace the values with your own interests, skills, and goals.
 3. **Build the app.**
    ```bash
    python3 app/build.py
